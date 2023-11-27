@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/G. Soldier and Bananas/cmake-build-debug/CMakeFiles/G__Soldier_and_Bananas.dir
+D:/Section/ps/Code-Force/G. Soldier and Bananas/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/G. Soldier and Bananas/cmake-build-debug/CMakeFiles/rebuild_cache.dir

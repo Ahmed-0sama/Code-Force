@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/F. Equation/cmake-build-debug/CMakeFiles/F__Equation.dir
+D:/Section/ps/Code-Force/F. Equation/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/F. Equation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

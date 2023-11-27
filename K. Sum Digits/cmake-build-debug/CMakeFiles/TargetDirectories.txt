@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/K. Sum Digits/cmake-build-debug/CMakeFiles/K__Sum_Digits.dir
+D:/Section/ps/Code-Force/K. Sum Digits/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/K. Sum Digits/cmake-build-debug/CMakeFiles/rebuild_cache.dir

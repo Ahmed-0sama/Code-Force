@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/P. Count Words/cmake-build-debug/CMakeFiles/P__Count_Words.dir
+D:/Section/ps/Code-Force/P. Count Words/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/P. Count Words/cmake-build-debug/CMakeFiles/rebuild_cache.dir

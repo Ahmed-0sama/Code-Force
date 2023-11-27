@@ -1,0 +1,11 @@
+# ninja log v5
+1	458	7227882263135449	CMakeFiles/B__binary_search_STL.dir/main.cpp.obj	33dc7daddb40f215
+460	678	7227882265174679	B__binary_search_STL.exe	2860ba0953a509b6
+2	566	7227884819385293	CMakeFiles/B__binary_search_STL.dir/main.cpp.obj	33dc7daddb40f215
+566	816	7227884821694701	B__binary_search_STL.exe	2860ba0953a509b6
+2	446	7227886361186757	CMakeFiles/B__binary_search_STL.dir/main.cpp.obj	33dc7daddb40f215
+447	641	7227886363061472	B__binary_search_STL.exe	2860ba0953a509b6
+2	444	7227887845075727	CMakeFiles/B__binary_search_STL.dir/main.cpp.obj	33dc7daddb40f215
+445	633	7227887846884660	B__binary_search_STL.exe	2860ba0953a509b6
+2	468	7227888888599287	CMakeFiles/B__binary_search_STL.dir/main.cpp.obj	33dc7daddb40f215
+468	693	7227888890726917	B__binary_search_STL.exe	2860ba0953a509b6

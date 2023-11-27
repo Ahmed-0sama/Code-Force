@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/c.Almost rectangle/cmake-build-debug/CMakeFiles/c_Almost_rectangle.dir
+D:/Section/ps/Code-Force/c.Almost rectangle/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/c.Almost rectangle/cmake-build-debug/CMakeFiles/rebuild_cache.dir

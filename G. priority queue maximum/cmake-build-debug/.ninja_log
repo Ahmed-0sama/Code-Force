@@ -1,0 +1,9 @@
+# ninja log v5
+0	609	7227849175469741	CMakeFiles/G__priority_queue_maximum.dir/main.cpp.obj	3c2d4d55ec27cc8a
+611	836	7227849177701733	G__priority_queue_maximum.exe	51dbbc797942c098
+4	450	7227853380618265	CMakeFiles/G__priority_queue_maximum.dir/main.cpp.obj	3c2d4d55ec27cc8a
+451	626	7227853382381939	G__priority_queue_maximum.exe	51dbbc797942c098
+2	401	7227861000425553	CMakeFiles/G__priority_queue_maximum.dir/main.cpp.obj	3c2d4d55ec27cc8a
+402	637	7227861002723296	G__priority_queue_maximum.exe	51dbbc797942c098
+2	546	7227863077489084	CMakeFiles/G__priority_queue_maximum.dir/main.cpp.obj	3c2d4d55ec27cc8a
+546	773	7227863079691671	G__priority_queue_maximum.exe	51dbbc797942c098

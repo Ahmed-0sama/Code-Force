@@ -1,0 +1,13 @@
+# ninja log v5
+0	486	7225409395323934	CMakeFiles/L__String_Functions.dir/main.cpp.obj	124b96a827bda0b8
+506	757	7225409398002245	L__String_Functions.exe	90d1b0f67ca23e4d
+1	409	7225411089150144	CMakeFiles/L__String_Functions.dir/main.cpp.obj	124b96a827bda0b8
+410	586	7225411090844764	L__String_Functions.exe	90d1b0f67ca23e4d
+2	413	7225411731198299	CMakeFiles/L__String_Functions.dir/main.cpp.obj	124b96a827bda0b8
+414	592	7225411732924460	L__String_Functions.exe	90d1b0f67ca23e4d
+2	417	7225412275732474	CMakeFiles/L__String_Functions.dir/main.cpp.obj	124b96a827bda0b8
+417	592	7225412277430036	L__String_Functions.exe	90d1b0f67ca23e4d
+2	437	7225415488626112	CMakeFiles/L__String_Functions.dir/main.cpp.obj	124b96a827bda0b8
+437	608	7225415490420027	L__String_Functions.exe	90d1b0f67ca23e4d
+1	418	7225416468781955	CMakeFiles/L__String_Functions.dir/main.cpp.obj	124b96a827bda0b8
+418	592	7225416470475139	L__String_Functions.exe	90d1b0f67ca23e4d

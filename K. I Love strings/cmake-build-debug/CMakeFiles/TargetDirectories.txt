@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/K. I Love strings/cmake-build-debug/CMakeFiles/K__I_Love_strings.dir
+D:/Section/ps/Code-Force/K. I Love strings/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/K. I Love strings/cmake-build-debug/CMakeFiles/rebuild_cache.dir
