@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/I. The new garage/cmake-build-debug/CMakeFiles/I__The_new_garage.dir
+D:/Section/ps/Code-Force/I. The new garage/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/I. The new garage/cmake-build-debug/CMakeFiles/rebuild_cache.dir
