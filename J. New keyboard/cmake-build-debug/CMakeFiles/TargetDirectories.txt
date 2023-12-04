@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/J. New keyboard/cmake-build-debug/CMakeFiles/J__New_keyboard.dir
+D:/Section/ps/Code-Force/J. New keyboard/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/J. New keyboard/cmake-build-debug/CMakeFiles/rebuild_cache.dir
