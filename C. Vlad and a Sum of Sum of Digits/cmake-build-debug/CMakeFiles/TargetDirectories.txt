@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/C. Vlad and a Sum of Sum of Digits/cmake-build-debug/CMakeFiles/C__Vlad_and_a_Sum_of_Sum_of_Digits.dir
+D:/Section/ps/Code-Force/C. Vlad and a Sum of Sum of Digits/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/C. Vlad and a Sum of Sum of Digits/cmake-build-debug/CMakeFiles/rebuild_cache.dir

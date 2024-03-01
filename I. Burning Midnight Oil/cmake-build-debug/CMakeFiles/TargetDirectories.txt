@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/I. Burning Midnight Oil/cmake-build-debug/CMakeFiles/I__Burning_Midnight_Oil.dir
+D:/Section/ps/Code-Force/I. Burning Midnight Oil/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/I. Burning Midnight Oil/cmake-build-debug/CMakeFiles/rebuild_cache.dir

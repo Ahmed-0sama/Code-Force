@@ -1,0 +1,13 @@
+# ninja log v5
+0	383	7295597886577595	CMakeFiles/A__Books.dir/main.cpp.obj	2bde3ee2b169d2b9
+387	610	7295597888719764	A__Books.exe	c324e05e9b9cf43b
+2	398	7295601896592941	CMakeFiles/A__Books.dir/main.cpp.obj	2bde3ee2b169d2b9
+399	616	7295601898703230	A__Books.exe	c324e05e9b9cf43b
+8	1627	7295603905726608	CMakeFiles/A__Books.dir/main.cpp.obj	2bde3ee2b169d2b9
+1628	2449	7295603913086673	A__Books.exe	c324e05e9b9cf43b
+8	1333	7295604743515074	CMakeFiles/A__Books.dir/main.cpp.obj	2bde3ee2b169d2b9
+1333	1791	7295604747990844	A__Books.exe	c324e05e9b9cf43b
+5	1080	7295605669150087	CMakeFiles/A__Books.dir/main.cpp.obj	2bde3ee2b169d2b9
+1080	1530	7295605673529171	A__Books.exe	c324e05e9b9cf43b
+9	1869	7295609552170756	CMakeFiles/A__Books.dir/main.cpp.obj	2bde3ee2b169d2b9
+1871	2686	7295609560173843	A__Books.exe	c324e05e9b9cf43b

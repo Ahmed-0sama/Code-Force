@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/K. Misha and Changing Handles/cmake-build-debug/CMakeFiles/K__Misha_and_Changing_Handles.dir
+D:/Section/ps/Code-Force/K. Misha and Changing Handles/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/K. Misha and Changing Handles/cmake-build-debug/CMakeFiles/rebuild_cache.dir

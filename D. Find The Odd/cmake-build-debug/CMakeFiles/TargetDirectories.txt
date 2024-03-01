@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/D. Find The Odd/cmake-build-debug/CMakeFiles/D__Find_The_Odd.dir
+D:/Section/ps/Code-Force/D. Find The Odd/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/D. Find The Odd/cmake-build-debug/CMakeFiles/rebuild_cache.dir

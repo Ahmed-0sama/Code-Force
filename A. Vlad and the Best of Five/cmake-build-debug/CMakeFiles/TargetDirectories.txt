@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A. Vlad and the Best of Five/cmake-build-debug/CMakeFiles/A__Vlad_and_the_Best_of_Five.dir
+D:/Section/ps/Code-Force/A. Vlad and the Best of Five/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A. Vlad and the Best of Five/cmake-build-debug/CMakeFiles/rebuild_cache.dir

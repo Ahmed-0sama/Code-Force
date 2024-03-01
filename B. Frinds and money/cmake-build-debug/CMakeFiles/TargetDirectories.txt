@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B. Frinds and money/cmake-build-debug/CMakeFiles/B__Frinds_and_money.dir
+D:/Section/ps/Code-Force/B. Frinds and money/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B. Frinds and money/cmake-build-debug/CMakeFiles/rebuild_cache.dir

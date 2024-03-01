@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/J. The Da Vinci Code/cmake-build-debug/CMakeFiles/J__The_Da_Vinci_Code.dir
+D:/Section/ps/Code-Force/J. The Da Vinci Code/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/J. The Da Vinci Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir

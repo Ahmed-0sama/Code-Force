@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A. Chat room/cmake-build-debug/CMakeFiles/A__Chat_room.dir
+D:/Section/ps/Code-Force/A. Chat room/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A. Chat room/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/K. M-islands/cmake-build-debug/CMakeFiles/K__M_islands.dir
+D:/Section/ps/Code-Force/K. M-islands/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/K. M-islands/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/D. Unnatural Language Processing/cmake-build-debug/CMakeFiles/D__Unnatural_Language_Processing.dir
+D:/Section/ps/Code-Force/D. Unnatural Language Processing/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/D. Unnatural Language Processing/cmake-build-debug/CMakeFiles/rebuild_cache.dir

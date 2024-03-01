@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A. Maximise The Score/cmake-build-debug/CMakeFiles/A__Maximise_The_Score.dir
+D:/Section/ps/Code-Force/A. Maximise The Score/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A. Maximise The Score/cmake-build-debug/CMakeFiles/rebuild_cache.dir

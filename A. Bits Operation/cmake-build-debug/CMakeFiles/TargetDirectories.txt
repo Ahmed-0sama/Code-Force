@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A. Bits Operation/cmake-build-debug/CMakeFiles/A__Bits_Operation.dir
+D:/Section/ps/Code-Force/A. Bits Operation/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A. Bits Operation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

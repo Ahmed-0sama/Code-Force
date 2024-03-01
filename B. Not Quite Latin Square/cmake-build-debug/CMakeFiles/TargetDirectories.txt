@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B. Not Quite Latin Square/cmake-build-debug/CMakeFiles/B__Not_Quite_Latin_Square.dir
+D:/Section/ps/Code-Force/B. Not Quite Latin Square/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B. Not Quite Latin Square/cmake-build-debug/CMakeFiles/rebuild_cache.dir

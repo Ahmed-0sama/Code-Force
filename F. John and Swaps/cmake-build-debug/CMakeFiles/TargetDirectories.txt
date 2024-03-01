@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/F. John and Swaps/cmake-build-debug/CMakeFiles/F__John_and_Swaps.dir
+D:/Section/ps/Code-Force/F. John and Swaps/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/F. John and Swaps/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="A__Make_it_White" targetName="A__Make_it_White" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="015f3d4c-9f0e-47f6-9ab3-eebe5b9ac03c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/.idea/A. Dragons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/.cmake/api/v1/reply/cache-v2-a89f61498526f4561a0b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-3c4b133fbd9f9b1b7e0e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-1e83c90565a16a3ebbf2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/.cmake/api/v1/reply/index-2024-01-31T12-04-34-0633.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/.cmake/api/v1/reply/target-A__Dragons-Debug-0aa3451a8d279561b571.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-1dae79f0f28aa62519d3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/A__Dragons.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/CMakeFiles/A__Dragons.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Dragons/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Fox And Snake/.idea/A. Fox And Snake.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Odd One Out/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Odd One Out/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Odd One Out/.idea/A. Odd One Out.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Odd One Out/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Odd One Out/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Odd One Out/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Registration system/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Registration system/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Registration system/.idea/A. Registration system.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Registration system/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Registration system/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Registration system/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. set/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. set/.idea/A. set.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. set/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. set/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. set/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Frinds and money/.idea/B. Frinds and money.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Less or Equal/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Less or Equal/.idea/B. Less or Equal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Less or Equal/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Less or Equal/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Less or Equal/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Not Quite Latin Square/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Not Quite Latin Square/.idea/B. Not Quite Latin Square.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Not Quite Latin Square/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Not Quite Latin Square/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Not Quite Latin Square/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Can I Square/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Can I Square/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Can I Square/.idea/C. Can I Square.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Can I Square/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Can I Square/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Can I Square/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. The Grades/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. The Grades/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. The Grades/.idea/C. The Grades.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. The Grades/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. The Grades/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. The Grades/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Unnatural Language Processing/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Unnatural Language Processing/.idea/D. Unnatural Language Processing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Unnatural Language Processing/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Unnatural Language Processing/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Unnatural Language Processing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E. Aymoon and Books/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E. Aymoon and Books/.idea/E. Aymoon and Books.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E. Aymoon and Books/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E. Aymoon and Books/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E. Aymoon and Books/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E. Cairo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E. Cairo/.idea/E. Cairo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E. Cairo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E. Cairo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E. Cairo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. John and Swaps/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. John and Swaps/.idea/F. John and Swaps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. John and Swaps/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. John and Swaps/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. John and Swaps/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Queries about less or equal elements/.idea/F. Queries about less or equal elements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../G. Chat Order/.idea/G. Chat Order.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H. Playing With Arrays/.idea/H. Playing With Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../I. Linked List/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../I. Linked List/.idea/I. Linked List.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../I. Linked List/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../I. Linked List/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../I. Linked List/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K. Misha and Changing Handles/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K. Misha and Changing Handles/.idea/K. Misha and Changing Handles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K. Misha and Changing Handles/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K. Misha and Changing Handles/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K. Misha and Changing Handles/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P. Sort range/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P. Sort range/.idea/P. Sort range.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P. Sort range/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P. Sort range/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P. Sort range/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../I. The new garage/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../I. The new garage/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../I. The new garage/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../I. The new garage/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="2.2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2bzxPjEfey5XB2grBlx91VYOUGw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A__Make_it_White" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="A__Make_it_White" TARGET_NAME="A__Make_it_White" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="A__Make_it_White" RUN_TARGET_NAME="A__Make_it_White">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="015f3d4c-9f0e-47f6-9ab3-eebe5b9ac03c" name="Changes" comment="" />
+      <created>1707231686797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707231686797</updated>
+      <workItem from="1707231688600" duration="1872000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+</project>

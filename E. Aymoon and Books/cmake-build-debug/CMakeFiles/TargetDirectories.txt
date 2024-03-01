@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/E. Aymoon and Books/cmake-build-debug/CMakeFiles/E__Aymoon_and_Books.dir
+D:/Section/ps/Code-Force/E. Aymoon and Books/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/E. Aymoon and Books/cmake-build-debug/CMakeFiles/rebuild_cache.dir
