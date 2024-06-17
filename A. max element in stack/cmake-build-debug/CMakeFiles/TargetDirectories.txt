@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A. max element in stack/cmake-build-debug/CMakeFiles/A__max_element_in_stack.dir
+D:/Section/ps/Code-Force/A. max element in stack/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A. max element in stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir

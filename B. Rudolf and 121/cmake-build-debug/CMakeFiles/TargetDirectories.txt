@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B. Rudolf and 121/cmake-build-debug/CMakeFiles/B__Rudolf_and_121.dir
+D:/Section/ps/Code-Force/B. Rudolf and 121/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B. Rudolf and 121/cmake-build-debug/CMakeFiles/rebuild_cache.dir

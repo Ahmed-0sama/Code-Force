@@ -1,0 +1,13 @@
+# ninja log v5
+0	1390	7370612580727125	CMakeFiles/D__Binary_Cut.dir/main.cpp.obj	73a29d0a76c9cec6
+1394	1605	7370612582817416	D__Binary_Cut.exe	f839d1f38a817790
+2	1021	7370612944585745	CMakeFiles/D__Binary_Cut.dir/main.cpp.obj	73a29d0a76c9cec6
+1021	1187	7370612946209941	D__Binary_Cut.exe	f839d1f38a817790
+3	1110	7370613157618883	CMakeFiles/D__Binary_Cut.dir/main.cpp.obj	73a29d0a76c9cec6
+1110	1284	7370613159306848	D__Binary_Cut.exe	f839d1f38a817790
+2	426	7370613582884959	CMakeFiles/D__Binary_Cut.dir/main.cpp.obj	73a29d0a76c9cec6
+427	688	7370613585344694	D__Binary_Cut.exe	f839d1f38a817790
+2	1332	7370613966706492	CMakeFiles/D__Binary_Cut.dir/main.cpp.obj	73a29d0a76c9cec6
+1332	1543	7370613968747284	D__Binary_Cut.exe	f839d1f38a817790
+2	988	7370614289031695	CMakeFiles/D__Binary_Cut.dir/main.cpp.obj	73a29d0a76c9cec6
+988	1150	7370614290598023	D__Binary_Cut.exe	f839d1f38a817790

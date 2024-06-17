@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/C. Assembly via Remainders/cmake-build-debug/CMakeFiles/C__Assembly_via_Remainders.dir
+D:/Section/ps/Code-Force/C. Assembly via Remainders/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/C. Assembly via Remainders/cmake-build-debug/CMakeFiles/rebuild_cache.dir

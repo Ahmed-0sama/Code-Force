@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/C. New Year and Old Property/cmake-build-debug/CMakeFiles/C__New_Year_and_Old_Property.dir
+D:/Section/ps/Code-Force/C. New Year and Old Property/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/C. New Year and Old Property/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/X. Winner/cmake-build-debug/CMakeFiles/X__Winner.dir
+D:/Section/ps/Code-Force/X. Winner/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/X. Winner/cmake-build-debug/CMakeFiles/rebuild_cache.dir

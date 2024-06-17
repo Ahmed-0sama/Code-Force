@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/1480. Running Sum of 1d Array/cmake-build-debug/CMakeFiles/1480__Running_Sum_of_1d_Array.dir
+D:/Section/ps/Code-Force/1480. Running Sum of 1d Array/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/1480. Running Sum of 1d Array/cmake-build-debug/CMakeFiles/rebuild_cache.dir

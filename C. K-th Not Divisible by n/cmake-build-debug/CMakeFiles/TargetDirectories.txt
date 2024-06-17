@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/C. K-th Not Divisible by n/cmake-build-debug/CMakeFiles/C__K_th_Not_Divisible_by_n.dir
+D:/Section/ps/Code-Force/C. K-th Not Divisible by n/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/C. K-th Not Divisible by n/cmake-build-debug/CMakeFiles/rebuild_cache.dir

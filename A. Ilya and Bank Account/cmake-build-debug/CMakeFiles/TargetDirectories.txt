@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A. Ilya and Bank Account/cmake-build-debug/CMakeFiles/A__Ilya_and_Bank_Account.dir
+D:/Section/ps/Code-Force/A. Ilya and Bank Account/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A. Ilya and Bank Account/cmake-build-debug/CMakeFiles/rebuild_cache.dir

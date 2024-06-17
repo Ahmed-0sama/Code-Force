@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A. Domino piling/cmake-build-debug/CMakeFiles/A__Domino_piling.dir
+D:/Section/ps/Code-Force/A. Domino piling/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A. Domino piling/cmake-build-debug/CMakeFiles/rebuild_cache.dir

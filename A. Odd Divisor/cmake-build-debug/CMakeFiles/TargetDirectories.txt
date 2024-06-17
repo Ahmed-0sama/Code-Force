@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A. Odd Divisor/cmake-build-debug/CMakeFiles/A__Odd_Divisor.dir
+D:/Section/ps/Code-Force/A. Odd Divisor/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A. Odd Divisor/cmake-build-debug/CMakeFiles/rebuild_cache.dir

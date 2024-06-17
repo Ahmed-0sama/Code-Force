@@ -1,0 +1,23 @@
+# ninja log v5
+0	839	7342013742146861	CMakeFiles/J__Printer.dir/main.cpp.obj	e4bd6ad3bc400bb7
+842	1129	7342013745003775	J__Printer.exe	695c307920ff416b
+2	598	7342014849339574	CMakeFiles/J__Printer.dir/main.cpp.obj	e4bd6ad3bc400bb7
+598	802	7342014851359517	J__Printer.exe	695c307920ff416b
+2	720	7342015132377759	CMakeFiles/J__Printer.dir/main.cpp.obj	e4bd6ad3bc400bb7
+720	907	7342015134189622	J__Printer.exe	695c307920ff416b
+2	625	7342016698926225	CMakeFiles/J__Printer.dir/main.cpp.obj	e4bd6ad3bc400bb7
+625	844	7342016701049991	J__Printer.exe	695c307920ff416b
+4	864	7342026065324214	CMakeFiles/J__Printer.dir/main.cpp.obj	e4bd6ad3bc400bb7
+864	1103	7342026067684002	J__Printer.exe	695c307920ff416b
+2	645	7342027521205649	CMakeFiles/J__Printer.dir/main.cpp.obj	e4bd6ad3bc400bb7
+646	839	7342027523087557	J__Printer.exe	695c307920ff416b
+2	706	7342028451162170	CMakeFiles/J__Printer.dir/main.cpp.obj	e4bd6ad3bc400bb7
+707	936	7342028453374957	J__Printer.exe	695c307920ff416b
+2	693	7342028590681263	CMakeFiles/J__Printer.dir/main.cpp.obj	e4bd6ad3bc400bb7
+694	923	7342028592900263	J__Printer.exe	695c307920ff416b
+2	666	7342030081536393	CMakeFiles/J__Printer.dir/main.cpp.obj	e4bd6ad3bc400bb7
+666	856	7342030083413017	J__Printer.exe	695c307920ff416b
+2	738	7342031761384499	CMakeFiles/J__Printer.dir/main.cpp.obj	e4bd6ad3bc400bb7
+739	985	7342031763785270	J__Printer.exe	695c307920ff416b
+3	626	7342037929550610	CMakeFiles/J__Printer.dir/main.cpp.obj	e4bd6ad3bc400bb7
+626	897	7342037932225227	J__Printer.exe	695c307920ff416b

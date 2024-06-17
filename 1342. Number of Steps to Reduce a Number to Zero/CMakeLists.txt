@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.26)
+project(1342__Number_of_Steps_to_Reduce_a_Number_to_Zero)
+
+set(CMAKE_CXX_STANDARD 23)
+
+add_executable(1342__Number_of_Steps_to_Reduce_a_Number_to_Zero main.cpp)

@@ -1,0 +1,11 @@
+# ninja log v5
+1	811	7394102764893176	CMakeFiles/A__Problem_Generator.dir/main.cpp.obj	b6096006583005f5
+814	1054	7394102767249755	A__Problem_Generator.exe	e39077f9c71ba000
+2	1885	7394103286438645	CMakeFiles/A__Problem_Generator.dir/main.cpp.obj	b6096006583005f5
+1886	2153	7394103289063631	A__Problem_Generator.exe	e39077f9c71ba000
+3	1580	7394103639808164	CMakeFiles/A__Problem_Generator.dir/main.cpp.obj	b6096006583005f5
+1580	1873	7394103642683031	A__Problem_Generator.exe	e39077f9c71ba000
+2	615	7394103680765439	CMakeFiles/A__Problem_Generator.dir/main.cpp.obj	b6096006583005f5
+616	837	7394103683088469	A__Problem_Generator.exe	e39077f9c71ba000
+2	1393	7394106652261245	CMakeFiles/A__Problem_Generator.dir/main.cpp.obj	b6096006583005f5
+1395	1812	7394106656303402	A__Problem_Generator.exe	e39077f9c71ba000

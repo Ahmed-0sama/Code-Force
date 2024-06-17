@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A. Turtle Puzzle Rearrange and Negate/cmake-build-debug/CMakeFiles/A__Turtle_Puzzle_Rearrange_and_Negate.dir
+D:/Section/ps/Code-Force/A. Turtle Puzzle Rearrange and Negate/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A. Turtle Puzzle Rearrange and Negate/cmake-build-debug/CMakeFiles/rebuild_cache.dir

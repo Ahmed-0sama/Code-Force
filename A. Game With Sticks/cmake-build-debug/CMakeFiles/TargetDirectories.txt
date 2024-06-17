@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A. Game With Sticks/cmake-build-debug/CMakeFiles/A__Game_With_Sticks.dir
+D:/Section/ps/Code-Force/A. Game With Sticks/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A. Game With Sticks/cmake-build-debug/CMakeFiles/rebuild_cache.dir

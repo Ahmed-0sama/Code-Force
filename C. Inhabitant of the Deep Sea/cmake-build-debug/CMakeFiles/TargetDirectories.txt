@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/C. Inhabitant of the Deep Sea/cmake-build-debug/CMakeFiles/C__Inhabitant_of_the_Deep_Sea.dir
+D:/Section/ps/Code-Force/C. Inhabitant of the Deep Sea/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/C. Inhabitant of the Deep Sea/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A. Life Without Zeros/cmake-build-debug/CMakeFiles/A__Life_Without_Zeros.dir
+D:/Section/ps/Code-Force/A. Life Without Zeros/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A. Life Without Zeros/cmake-build-debug/CMakeFiles/rebuild_cache.dir

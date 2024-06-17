@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B. Taxi/cmake-build-debug/CMakeFiles/B__Taxi.dir
+D:/Section/ps/Code-Force/B. Taxi/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B. Taxi/cmake-build-debug/CMakeFiles/rebuild_cache.dir

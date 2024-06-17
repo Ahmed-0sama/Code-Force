@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A. New Year Transportation/cmake-build-debug/CMakeFiles/A__New_Year_Transportation.dir
+D:/Section/ps/Code-Force/A. New Year Transportation/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A. New Year Transportation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

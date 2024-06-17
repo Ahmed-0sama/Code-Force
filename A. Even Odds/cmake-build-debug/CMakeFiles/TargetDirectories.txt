@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A. Even Odds/cmake-build-debug/CMakeFiles/A__Even_Odds.dir
+D:/Section/ps/Code-Force/A. Even Odds/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A. Even Odds/cmake-build-debug/CMakeFiles/rebuild_cache.dir

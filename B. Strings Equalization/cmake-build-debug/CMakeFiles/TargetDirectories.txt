@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B. Strings Equalization/cmake-build-debug/CMakeFiles/B__Strings_Equalization.dir
+D:/Section/ps/Code-Force/B. Strings Equalization/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B. Strings Equalization/cmake-build-debug/CMakeFiles/rebuild_cache.dir

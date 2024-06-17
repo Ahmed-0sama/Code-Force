@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B. Binary search/cmake-build-debug/CMakeFiles/B__Binary_search.dir
+D:/Section/ps/Code-Force/B. Binary search/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B. Binary search/cmake-build-debug/CMakeFiles/rebuild_cache.dir

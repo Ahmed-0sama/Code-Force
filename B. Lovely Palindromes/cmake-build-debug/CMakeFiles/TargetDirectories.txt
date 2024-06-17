@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B. Lovely Palindromes/cmake-build-debug/CMakeFiles/B__Lovely_Palindromes.dir
+D:/Section/ps/Code-Force/B. Lovely Palindromes/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B. Lovely Palindromes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

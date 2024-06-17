@@ -1,0 +1,14 @@
+# ninja log v5
+2	364	7342907580647854	CMakeFiles/A__Yogurt_Sale.dir/main.cpp.obj	230eda17bae8cf3
+365	545	7342907582390305	A__Yogurt_Sale.exe	5b19ac8e0cdc4cbd
+7	428	7342910489023857	build.ninja	9c887587b27f2e53
+2	481	7342910494711103	CMakeFiles/A__Yogurt_Sale.dir/main.cpp.obj	230eda17bae8cf3
+482	693	7342910496761094	A__Yogurt_Sale.exe	5b19ac8e0cdc4cbd
+2	400	7342910975427234	CMakeFiles/A__Yogurt_Sale.dir/main.cpp.obj	230eda17bae8cf3
+401	624	7342910977586921	A__Yogurt_Sale.exe	5b19ac8e0cdc4cbd
+2	361	7342911494394110	CMakeFiles/A__Yogurt_Sale.dir/main.cpp.obj	230eda17bae8cf3
+362	558	7342911496301534	A__Yogurt_Sale.exe	5b19ac8e0cdc4cbd
+2	345	7342911607115442	CMakeFiles/A__Yogurt_Sale.dir/main.cpp.obj	230eda17bae8cf3
+345	521	7342911608791616	A__Yogurt_Sale.exe	5b19ac8e0cdc4cbd
+2	359	7342912036328478	CMakeFiles/A__Yogurt_Sale.dir/main.cpp.obj	230eda17bae8cf3
+360	546	7342912038120656	A__Yogurt_Sale.exe	5b19ac8e0cdc4cbd

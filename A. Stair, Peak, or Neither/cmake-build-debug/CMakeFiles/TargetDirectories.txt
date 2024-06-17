@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A. Stair, Peak, or Neither/cmake-build-debug/CMakeFiles/A__Stair__Peak__or_Neither.dir
+D:/Section/ps/Code-Force/A. Stair, Peak, or Neither/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A. Stair, Peak, or Neither/cmake-build-debug/CMakeFiles/rebuild_cache.dir

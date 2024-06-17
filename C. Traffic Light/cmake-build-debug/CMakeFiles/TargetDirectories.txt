@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/C. Traffic Light/cmake-build-debug/CMakeFiles/C__Traffic_Light.dir
+D:/Section/ps/Code-Force/C. Traffic Light/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/C. Traffic Light/cmake-build-debug/CMakeFiles/rebuild_cache.dir

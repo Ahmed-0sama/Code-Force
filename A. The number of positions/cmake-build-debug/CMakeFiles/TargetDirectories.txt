@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A. The number of positions/cmake-build-debug/CMakeFiles/A__The_number_of_positions.dir
+D:/Section/ps/Code-Force/A. The number of positions/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A. The number of positions/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B. Promo/cmake-build-debug/CMakeFiles/B__Promo.dir
+D:/Section/ps/Code-Force/B. Promo/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B. Promo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

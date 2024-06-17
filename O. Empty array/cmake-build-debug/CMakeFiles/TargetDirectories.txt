@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/O. Empty array/cmake-build-debug/CMakeFiles/O__Empty_array.dir
+D:/Section/ps/Code-Force/O. Empty array/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/O. Empty array/cmake-build-debug/CMakeFiles/rebuild_cache.dir

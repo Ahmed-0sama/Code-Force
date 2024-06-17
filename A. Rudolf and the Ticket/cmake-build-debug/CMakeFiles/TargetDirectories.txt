@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A. Rudolf and the Ticket/cmake-build-debug/CMakeFiles/A__Rudolf_and_the_Ticket.dir
+D:/Section/ps/Code-Force/A. Rudolf and the Ticket/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A. Rudolf and the Ticket/cmake-build-debug/CMakeFiles/rebuild_cache.dir

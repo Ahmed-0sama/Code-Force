@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A. 3N+1 Series/cmake-build-debug/CMakeFiles/A__3N_1_Series.dir
+D:/Section/ps/Code-Force/A. 3N+1 Series/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A. 3N+1 Series/cmake-build-debug/CMakeFiles/rebuild_cache.dir

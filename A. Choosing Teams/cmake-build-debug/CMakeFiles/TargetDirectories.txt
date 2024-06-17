@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A. Choosing Teams/cmake-build-debug/CMakeFiles/A__Choosing_Teams.dir
+D:/Section/ps/Code-Force/A. Choosing Teams/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A. Choosing Teams/cmake-build-debug/CMakeFiles/rebuild_cache.dir

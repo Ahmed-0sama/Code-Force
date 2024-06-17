@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B. Xenia and Ringroad/cmake-build-debug/CMakeFiles/B__Xenia_and_Ringroad.dir
+D:/Section/ps/Code-Force/B. Xenia and Ringroad/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B. Xenia and Ringroad/cmake-build-debug/CMakeFiles/rebuild_cache.dir

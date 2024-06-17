@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="A__New_Year_Transportation" targetName="A__New_Year_Transportation" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3104347b-a87a-47ea-a29b-b85071c7dbe4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../1342. Number of Steps to Reduce a Number to Zero/.idea/1342. Number of Steps to Reduce a Number to Zero.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/.idea/1480. Running Sum of 1d Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/cmake-build-debug/.cmake/api/v1/reply/cache-v2-1cf5c163319b61706113.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-0c47a4930da360679394.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-58e72452084f9526a680.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/cmake-build-debug/.cmake/api/v1/reply/index-2024-05-02T13-23-41-0142.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/cmake-build-debug/.cmake/api/v1/reply/target-1480__Running_Sum_of_1d_Array-Debug-fa7c83325a99de84a6e0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-1dae79f0f28aa62519d3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1480. Running Sum of 1d Array/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1672. Richest Customer Wealth/.idea/1672. Richest Customer Wealth.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1672. Richest Customer Wealth/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1672. Richest Customer Wealth/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../412. Fizz Buzz/.idea/412. Fizz Buzz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Bakogan/.idea/A. Bakogan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Beautiful Year/.idea/A. Beautiful Year.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Candies/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Candies/.idea/A. Candies.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Candies/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Candies/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Candies/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Candies/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Candies/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Candies/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Cheap Travel/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Cheap Travel/.idea/A. Cheap Travel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Cheap Travel/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Cheap Travel/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Cheap Travel/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Cheap Travel/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Cheap Travel/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Cheap Travel/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Choosing Teams/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Choosing Teams/.idea/A. Choosing Teams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Division/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Division/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Division/.idea/A. Division.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Division/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Division/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Division/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Domino piling/.idea/A. Domino piling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Even Odds/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Even Odds/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Even Odds/.idea/A. Even Odds.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Even Odds/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Even Odds/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Even Odds/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Even Odds/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Even Odds/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Even Odds/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Even Odds/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Even Odds/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Even Odds/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Even Odds/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Even Odds/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Even Odds/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Even Odds/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Expression/.idea/A. Expression.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Expression/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Expression/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Expression/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Expression/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Expression/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Expression/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Football.bits/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Football.bits/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Football.bits/.idea/A. Football.bits.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Football.bits/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Football.bits/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Football.bits/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. George and Accommodation/.idea/A. George and Accommodation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. HQ9+/.idea/A. HQ9+.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. IQ test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. IQ test/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. IQ test/.idea/A. IQ test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. IQ test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. IQ test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. IQ test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/.idea/A. Ilya and Bank Account.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/cmake-build-debug/.cmake/api/v1/reply/cache-v2-fdfb2f04369cef86cb6c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-a9828610fe57fbfc6ea6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-c43c9e5f0969ec48fbf5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/cmake-build-debug/.cmake/api/v1/reply/index-2024-05-03T07-47-17-0075.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/cmake-build-debug/.cmake/api/v1/reply/target-A__Ilya_and_Bank_Account-Debug-d5954a637bf1cb5cd684.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-1dae79f0f28aa62519d3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Ilya and Bank Account/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Insomnia cure/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Insomnia cure/.idea/A. Insomnia cure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Insomnia cure/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Insomnia cure/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Insomnia cure/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Kefa and First Steps/.idea/A. Kefa and First Steps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Love Story/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Love Story/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Love Story/.idea/A. Love Story.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Love Story/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Love Story/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Love Story/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Lucky Division/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Lucky Division/.idea/A. Lucky Division.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Lucky Division/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Lucky Division/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Lucky Division/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Lucky Division/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Lucky Division/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Lucky Division/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Mainak and Array/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Mainak and Array/.idea/A. Mainak and Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Mainak and Array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Mainak and Array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Mainak and Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Mainak and Array/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Mainak and Array/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Mainak and Array/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Maximize/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Maximize/.idea/A. Maximize.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Maximize/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Maximize/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Maximize/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Maximize/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/A. New Year Transportation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Next Round/.idea/A. Next Round.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Odd Divisor/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Odd Divisor/.idea/A. Odd Divisor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Odd Divisor/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Odd Divisor/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Odd Divisor/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Odd Divisor/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Petr and Book/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Petr and Book/.idea/A. Petr and Book.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Petr and Book/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Petr and Book/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Petr and Book/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Petr and Book/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Petr and Book/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Petr and Book/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Petr and Book/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Petr and Book/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Petr and Book/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Petr and Book/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Petr and Book/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Petr and Book/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Petr and Book/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Petr and Book/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Puzzles/.idea/A. Puzzles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Road To Zero/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Road To Zero/.idea/A. Road To Zero.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Road To Zero/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Road To Zero/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Road To Zero/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Rudolf and the Ticket/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Rudolf and the Ticket/.idea/A. Rudolf and the Ticket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Rudolf and the Ticket/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Rudolf and the Ticket/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Rudolf and the Ticket/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Setting up Camp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Setting up Camp/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Setting up Camp/.idea/A. Setting up Camp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Setting up Camp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Setting up Camp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Setting up Camp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Soft Drinking/.idea/A. Soft Drinking.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Soldier and Bananas/.idea/A. Soldier and Bananas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Spy Detected!/Spy_Detected/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Spy Detected!/Spy_Detected/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Spy Detected!/Spy_Detected/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Spy Detected!/Spy_Detected/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Spy Detected!/Spy_Detected/Spy_Detected.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Spy Detected/.idea/A. Spy Detected.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Stair, Peak, or Neither/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Stair, Peak, or Neither/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Stair, Peak, or Neither/.idea/A. Stair, Peak, or Neither.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Stair, Peak, or Neither/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Stair, Peak, or Neither/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Stair, Peak, or Neither/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. String Task/.idea/A. String Task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Sum/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Sum/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Sum/.idea/A. Sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. The number of positions/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. The number of positions/.idea/A. The number of positions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. The number of positions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. The number of positions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. The number of positions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. The number of positions/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. The number of positions/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. The number of positions/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Towers/.idea/A. Towers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Turtle Puzzle Rearrange and Negate/.idea/A. Turtle Puzzle Rearrange and Negate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Turtle Puzzle Rearrange and Negate/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Turtle Puzzle Rearrange and Negate/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Turtle Puzzle Rearrange and Negate/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Turtle Puzzle Rearrange and Negate/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Turtle Puzzle Rearrange and Negate/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Turtle Puzzle Rearrange and Negate/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Twins/.idea/A. Twins.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Yogurt Sale/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Yogurt Sale/.idea/A. Yogurt Sale.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Yogurt Sale/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Yogurt Sale/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Yogurt Sale/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. cAPS lOCK/.idea/A. cAPS lOCK.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. max element in stack/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. max element in stack/.idea/A. max element in stack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. max element in stack/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. max element in stack/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. max element in stack/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B - Progressive Square/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B - Progressive Square/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B - Progressive Square/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B - Progressive Square/.idea/untitled3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B - Progressive Square/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Alphabetic Removals/.idea/B. Alphabetic Removals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Balanced Array/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Balanced Array/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Balanced Array/.idea/B. Balanced Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Balanced Array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Balanced Array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Balanced Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Biscuit Generator/.idea/B. Biscuit Generator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Keep it Beautiful/.idea/B. Shoe Shuffling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Letter/.idea/B. Letter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Lovely Palindromes/.idea/B. Lovely Palindromes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Meteor Flow/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Meteor Flow/.idea/B. Meteor Flow.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Meteor Flow/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Meteor Flow/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Meteor Flow/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Notepad#/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Notepad#/.idea/B. Notepad#.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Notepad#/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Notepad#/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Notepad#/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Phone numbers/.idea/B. Phone numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Phone numbers/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Phone numbers/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Phone numbers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Phone numbers/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Phone numbers/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Phone numbers/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Prefiquence/.idea/B. Prefiquence.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Progressive Square/.idea/B. Progressive Square.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Promo/.idea/B. Promo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Promo/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Promo/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Promo/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Promo/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Promo/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Promo/cmake-build-debug/.cmake/api/v1/reply/cache-v2-ed4d93e7b8b64f2940cc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Promo/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-75d1cea3c3cb405ffc3c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Promo/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-83a488ae6ff7eb845be8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Promo/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Promo/cmake-build-debug/.cmake/api/v1/reply/index-2024-04-25T23-50-24-0179.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Promo/cmake-build-debug/.cmake/api/v1/reply/target-B__Promo-Debug-940dd131c5735766d77d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Promo/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-1dae79f0f28aa62519d3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Promo/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Promo/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Promo/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Promo/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Promo/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Promo/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Promo/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Promo/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Promo/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Promo/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Promo/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Promo/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Promo/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Promo/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Promo/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Promo/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Promo/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Promo/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Promo/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Rudolf and 121/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Rudolf and 121/.idea/B. Rudolf and 121.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Rudolf and 121/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Rudolf and 121/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Rudolf and 121/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Sale/.idea/B. Sale.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Sum of Digits/.idea/B. Sum of Digits.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Sum of Digits/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Sum of Digits/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Taxi/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Taxi/.idea/B. Taxi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Taxi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Taxi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Taxi/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Turtle Math Fast Three Task/.idea/B. Turtle Math Fast Three Task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Upscaling/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Upscaling/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Upscaling/.idea/B. Upscaling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Upscaling/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Upscaling/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Upscaling/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Was it Rated/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Was it Rated/.idea/B. Was it Rated.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Was it Rated/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Was it Rated/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Was it Rated/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Xenia and Ringroad/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Xenia and Ringroad/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Xenia and Ringroad/.idea/B. Xenia and Ringroad.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Xenia and Ringroad/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Xenia and Ringroad/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B. Xenia and Ringroad/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/.idea/C. Assembly via Remainders.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/cmake-build-debug/.cmake/api/v1/reply/cache-v2-67a784bcde04cbbe2034.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-2da15e1190685ba7ae6a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-afa6c74eaaf885cf6b73.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/cmake-build-debug/.cmake/api/v1/reply/index-2024-05-02T16-03-26-0374.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/cmake-build-debug/.cmake/api/v1/reply/target-C__Assembly_via_Remainders-Debug-30ac93d1e2fd74fc7629.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-1dae79f0f28aa62519d3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Assembly via Remainders/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Brackets (Easy Version)/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Brackets (Easy Version)/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Brackets (Easy Version)/.idea/C. Brackets (Easy Version).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Brackets (Easy Version)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Brackets (Easy Version)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Brackets (Easy Version)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/.idea/C. Clock Conversion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/cmake-build-debug/.cmake/api/v1/reply/cache-v2-6a54190972ece4491fa2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-eb37f5bb6adfb98a45ce.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-33d9db6f482c51c07668.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/cmake-build-debug/.cmake/api/v1/reply/index-2024-04-28T20-57-10-0905.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/cmake-build-debug/.cmake/api/v1/reply/target-C__Clock_Conversion-Debug-4f4e9a3920ebd11da52f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-1dae79f0f28aa62519d3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Clock Conversion/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Heap Operations/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Heap Operations/.idea/C. Heap Operations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Heap Operations/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Heap Operations/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Heap Operations/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Heap Operations/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Heap Operations/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Heap Operations/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Heap Operations/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Heap Operations/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Heap Operations/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Heap Operations/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Inhabitant of the Deep Sea/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Inhabitant of the Deep Sea/.idea/C. Inhabitant of the Deep Sea.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Maximum in Subarrays/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Maximum in Subarrays/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Maximum in Subarrays/.idea/C. Maximum in Subarrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Maximum in Subarrays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Maximum in Subarrays/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Maximum in Subarrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Maximum in Subarrays/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Maximum in Subarrays/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Maximum in Subarrays/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Maximum in Subarrays/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Maximum in Subarrays/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Maximum in Subarrays/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Maximum in Subarrays/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Maximum in Subarrays/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Maximum in Subarrays/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Maximum in Subarrays/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Maximum in Subarrays/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Maximum in Subarrays/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Maximum in Subarrays/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Maximum in Subarrays/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. New Year and Old Property/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. New Year and Old Property/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. New Year and Old Property/.idea/C. New Year and Old Property.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. New Year and Old Property/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. New Year and Old Property/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. New Year and Old Property/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Traffic Light/.idea/C. Traffic Light.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Black and White Stripe/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Black and White Stripe/.idea/D. Black and White Stripe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Black and White Stripe/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Black and White Stripe/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Black and White Stripe/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Challenging Valleys/.idea/D. Challenging Valleys.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Distinct Split/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Distinct Split/.idea/D. Distinct Split.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Distinct Split/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Distinct Split/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Distinct Split/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Distinct Split/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Distinct Split/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Gold Rush/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Gold Rush/.idea/D. Gold Rush.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Gold Rush/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Gold Rush/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Gold Rush/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Not a Cheap String/.idea/D. Not a Cheap String.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Not a Cheap String/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Not a Cheap String/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Not a Cheap String/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Not a Cheap String/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Not a Cheap String/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Not a Cheap String/cmake-build-debug/.cmake/api/v1/reply/cache-v2-60aeeb6751ec23dd67c8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Not a Cheap String/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-80c8e8e0bad9fb76b48e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Not a Cheap String/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-0c439a402310db992b1e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Not a Cheap String/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Not a Cheap String/cmake-build-debug/.cmake/api/v1/reply/index-2024-05-05T07-37-55-0404.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Not a Cheap String/cmake-build-debug/.cmake/api/v1/reply/target-D__Not_a_Cheap_String-Debug-1b9ba4b08c81f27a5ccd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Not a Cheap String/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-1dae79f0f28aa62519d3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Not a Cheap String/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Not a Cheap String/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Not a Cheap String/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Not a Cheap String/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Not a Cheap String/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Not a Cheap String/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Not a Cheap String/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Not a Cheap String/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Not a Cheap String/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Not a Cheap String/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Not a Cheap String/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Not a Cheap String/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Not a Cheap String/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Not a Cheap String/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Not a Cheap String/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Not a Cheap String/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Not a Cheap String/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Not a Cheap String/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Not a Cheap String/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/.idea/D. Selling Hamburgers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/cmake-build-debug/.cmake/api/v1/reply/cache-v2-16969b671d6bd7d82083.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-3da2074da954485efd18.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-2fb5a6968357fb955555.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/cmake-build-debug/.cmake/api/v1/reply/index-2024-04-21T20-00-05-0403.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/cmake-build-debug/.cmake/api/v1/reply/target-D__Selling_Hamburgers-Debug-6f9e69ba5c0f6cd658f8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-1dae79f0f28aa62519d3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Selling Hamburgers/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/.idea/F. Ada and Queue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/.cmake/api/v1/reply/cache-v2-53b92ddd2b4dcc58f056.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-d3618617035e72486a35.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-eb4a728ef987fc0c514c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/.cmake/api/v1/reply/index-2024-04-06T18-15-12-0438.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/.cmake/api/v1/reply/target-F__Ada_and_Queue-Debug-85c7641abc13d1412df1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-1dae79f0f28aa62519d3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/CMakeFiles/F__Ada_and_Queue.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/F__Ada_and_Queue.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Ada and Queue/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Create The Teams/.idea/F. Create The Teams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Create The Teams/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F. Create The Teams/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H. GCDc++/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H. GCDc++/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H. GCDc++/.idea/H. GCDc++.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H. GCDc++/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H. GCDc++/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H. GCDc++/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../I. Lucky Numbers/.idea/I. Lucky Numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J. Nikita and string/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J. Nikita and string/.idea/J. Nikita and string.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J. Nikita and string/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J. Nikita and string/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J. Nikita and string/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J. Printer/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J. Printer/.idea/J. Printer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J. Printer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J. Printer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J. Printer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L. Airport/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L. Airport/.idea/L. Airport.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L. Airport/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L. Airport/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L. Airport/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M. Lucky Numbers/.idea/M. Lucky Numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M. Minimum LCM/.idea/M. Minimum LCM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M. New Array/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M. New Array/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M. New Array/.idea/M. New Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M. New Array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M. New Array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M. New Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M. New Array/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M. New Array/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M. New Array/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M. New Array/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M. New Array/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M. New Array/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M. New Array/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M. New Array/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M. New Array/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS Assignment/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS Assignment/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS Assignment/.idea/MS Assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS Assignment/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS Assignment/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MS Assignment/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Missing number in array/.idea/Missing number in array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../O. Empty array/.idea/O. Empty array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../O. Empty array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../O. Empty array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../O. Empty array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../O. Empty array/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../O. Empty array/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../O. Empty array/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U. Phone Numbers/.idea/U. Phone Numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U. Phone Numbers/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U. Phone Numbers/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U. Phone Numbers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U. Phone Numbers/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../U. Phone Numbers/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms assigment/.idea/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/.idea/untitled4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A. Football/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../A. Football/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A. Football/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A. Football/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A. Football/A. Football.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../A. Football/A. Football.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A. Spy Detected/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A. Spy Detected/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A. Spy Detected/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A. Spy Detected/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A. Spy Detected/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A. Spy Detected/A. Spy Detected.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A. Spy Detected/src/K - Max and Min" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A. Way Too Long Words/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../A. Way Too Long Words/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D. Find The Odd/cmake-build-debug/.cmake/api/v1/reply/cache-v2-c86bef55f84db4ac1db8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D. Find The Odd/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-a77d31e2a263bbec08ac.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D. Find The Odd/cmake-build-debug/.cmake/api/v1/reply/index-2024-02-07T22-41-46-0072.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D. Find The Odd/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../D. Find The Odd/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D. Find The Odd/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../D. Find The Odd/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D. Find The Odd/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../D. Find The Odd/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D. Find The Odd/cmake-build-debug/CMakeFiles/D__Find_The_Odd.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../D. Find The Odd/cmake-build-debug/CMakeFiles/D__Find_The_Odd.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D. Find The Odd/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../D. Find The Odd/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D. Find The Odd/cmake-build-debug/D__Find_The_Odd.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../D. Find The Odd/cmake-build-debug/D__Find_The_Odd.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D. Find The Odd/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../D. Find The Odd/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D. Find The Odd/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../D. Find The Odd/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D. Find The Odd/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../D. Find The Odd/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D. Subsets/cmake-build-debug/.cmake/api/v1/reply/cache-v2-87994348fdb32b2e7890.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D. Subsets/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-78b7c7ac68fe82d29e52.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D. Subsets/cmake-build-debug/.cmake/api/v1/reply/index-2024-02-22T18-42-27-0037.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D. Subsets/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../D. Subsets/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D. Subsets/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../D. Subsets/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D. Subsets/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../D. Subsets/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D. Subsets/cmake-build-debug/CMakeFiles/D__Subsets.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../D. Subsets/cmake-build-debug/CMakeFiles/D__Subsets.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D. Subsets/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../D. Subsets/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D. Subsets/cmake-build-debug/D__Subsets.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../D. Subsets/cmake-build-debug/D__Subsets.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D. Subsets/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../D. Subsets/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D. Subsets/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../D. Subsets/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D. Subsets/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../D. Subsets/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="2.3" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2gAwXkLR0AZFksPEcAoARKw8jL6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A__New_Year_Transportation" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="A__New_Year_Transportation" TARGET_NAME="A__New_Year_Transportation" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="A__New_Year_Transportation" RUN_TARGET_NAME="A__New_Year_Transportation">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3104347b-a87a-47ea-a29b-b85071c7dbe4" name="Changes" comment="" />
+      <created>1715153732351</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715153732351</updated>
+      <workItem from="1715153735449" duration="1994000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+</project>

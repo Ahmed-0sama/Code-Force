@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/P. Two-gram/cmake-build-debug/CMakeFiles/P__Two_gram.dir
+D:/Section/ps/Code-Force/P. Two-gram/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/P. Two-gram/cmake-build-debug/CMakeFiles/rebuild_cache.dir

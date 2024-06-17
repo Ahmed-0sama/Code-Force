@@ -1,0 +1,11 @@
+# ninja log v5
+0	439	7357886908317573	CMakeFiles/B__Balanced_Array.dir/main.cpp.obj	ea95a5b8c43ed06d
+442	720	7357886910955784	B__Balanced_Array.exe	85b43cca658440dd
+2	368	7357887127441843	CMakeFiles/B__Balanced_Array.dir/main.cpp.obj	ea95a5b8c43ed06d
+369	553	7357887129219012	B__Balanced_Array.exe	85b43cca658440dd
+2	481	7357889709652734	CMakeFiles/B__Balanced_Array.dir/main.cpp.obj	ea95a5b8c43ed06d
+481	747	7357889712290970	B__Balanced_Array.exe	85b43cca658440dd
+2	369	7357891331241119	CMakeFiles/B__Balanced_Array.dir/main.cpp.obj	ea95a5b8c43ed06d
+369	548	7357891332973582	B__Balanced_Array.exe	85b43cca658440dd
+3	364	7357895293136293	CMakeFiles/B__Balanced_Array.dir/main.cpp.obj	ea95a5b8c43ed06d
+365	566	7357895295078348	B__Balanced_Array.exe	85b43cca658440dd

@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/C. Ski Resort/cmake-build-debug/CMakeFiles/C__Ski_Resort.dir
+D:/Section/ps/Code-Force/C. Ski Resort/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/C. Ski Resort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

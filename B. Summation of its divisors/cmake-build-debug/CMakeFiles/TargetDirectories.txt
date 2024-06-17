@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B. Summation of its divisors/cmake-build-debug/CMakeFiles/B__Summation_of_its_divisors.dir
+D:/Section/ps/Code-Force/B. Summation of its divisors/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B. Summation of its divisors/cmake-build-debug/CMakeFiles/rebuild_cache.dir

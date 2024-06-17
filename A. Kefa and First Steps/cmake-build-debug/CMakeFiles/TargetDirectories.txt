@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A. Kefa and First Steps/cmake-build-debug/CMakeFiles/A__Everyone_Loves_to_Sleep.dir
+D:/Section/ps/Code-Force/A. Kefa and First Steps/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A. Kefa and First Steps/cmake-build-debug/CMakeFiles/rebuild_cache.dir

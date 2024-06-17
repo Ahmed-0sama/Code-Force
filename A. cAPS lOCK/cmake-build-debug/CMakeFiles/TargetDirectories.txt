@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A. cAPS lOCK/cmake-build-debug/CMakeFiles/A__cAPS_lOCK.dir
+D:/Section/ps/Code-Force/A. cAPS lOCK/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A. cAPS lOCK/cmake-build-debug/CMakeFiles/rebuild_cache.dir

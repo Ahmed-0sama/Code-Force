@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A. Beautiful Year/cmake-build-debug/CMakeFiles/A__Beautiful_Year.dir
+D:/Section/ps/Code-Force/A. Beautiful Year/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A. Beautiful Year/cmake-build-debug/CMakeFiles/rebuild_cache.dir

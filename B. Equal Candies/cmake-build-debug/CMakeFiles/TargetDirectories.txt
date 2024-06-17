@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B. Equal Candies/cmake-build-debug/CMakeFiles/B__Equal_Candies.dir
+D:/Section/ps/Code-Force/B. Equal Candies/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B. Equal Candies/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/D. Not a Cheap String/cmake-build-debug/CMakeFiles/D__Not_a_Cheap_String.dir
+D:/Section/ps/Code-Force/D. Not a Cheap String/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/D. Not a Cheap String/cmake-build-debug/CMakeFiles/rebuild_cache.dir

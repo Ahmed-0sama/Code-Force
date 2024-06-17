@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A. Puzzles/cmake-build-debug/CMakeFiles/A__Puzzles.dir
+D:/Section/ps/Code-Force/A. Puzzles/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A. Puzzles/cmake-build-debug/CMakeFiles/rebuild_cache.dir

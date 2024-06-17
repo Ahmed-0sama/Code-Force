@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/J. Nikita and string/cmake-build-debug/CMakeFiles/J__Nikita_and_string.dir
+D:/Section/ps/Code-Force/J. Nikita and string/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/J. Nikita and string/cmake-build-debug/CMakeFiles/rebuild_cache.dir

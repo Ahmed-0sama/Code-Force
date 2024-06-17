@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B. Fox and Cross/cmake-build-debug/CMakeFiles/B__Fox_and_Cross.dir
+D:/Section/ps/Code-Force/B. Fox and Cross/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B. Fox and Cross/cmake-build-debug/CMakeFiles/rebuild_cache.dir

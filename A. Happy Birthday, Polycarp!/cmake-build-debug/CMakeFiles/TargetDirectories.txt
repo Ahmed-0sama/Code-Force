@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A. Happy Birthday, Polycarp!/cmake-build-debug/CMakeFiles/A__Happy_Birthday__Polycarp_.dir
+D:/Section/ps/Code-Force/A. Happy Birthday, Polycarp!/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A. Happy Birthday, Polycarp!/cmake-build-debug/CMakeFiles/rebuild_cache.dir

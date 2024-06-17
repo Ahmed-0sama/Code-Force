@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "1342__Number_of_Steps_to_Reduce_a_Number_to_Zero",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1342__Number_of_Steps_to_Reduce_a_Number_to_Zero::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1342__Number_of_Steps_to_Reduce_a_Number_to_Zero-Debug-ecbd73cd23eb981130d5.json",
+					"name" : "1342__Number_of_Steps_to_Reduce_a_Number_to_Zero",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Section/ps/Code-Force/1342. Number of Steps to Reduce a Number to Zero/cmake-build-debug",
+		"source" : "D:/Section/ps/Code-Force/1342. Number of Steps to Reduce a Number to Zero"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

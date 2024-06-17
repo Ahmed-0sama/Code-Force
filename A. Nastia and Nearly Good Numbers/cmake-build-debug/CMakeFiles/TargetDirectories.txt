@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A. Nastia and Nearly Good Numbers/cmake-build-debug/CMakeFiles/A__Nastia_and_Nearly_Good_Numbers.dir
+D:/Section/ps/Code-Force/A. Nastia and Nearly Good Numbers/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A. Nastia and Nearly Good Numbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/L. Powers of Two/cmake-build-debug/CMakeFiles/L__Powers_of_Two.dir
+D:/Section/ps/Code-Force/L. Powers of Two/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/L. Powers of Two/cmake-build-debug/CMakeFiles/rebuild_cache.dir

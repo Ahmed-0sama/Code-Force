@@ -1,0 +1,23 @@
+# ninja log v5
+0	371	7345348713093369	CMakeFiles/C__Heap_Operations.dir/main.cpp.obj	808b422e8de9a4c9
+373	576	7345348715077521	C__Heap_Operations.exe	c378810c295ca6d7
+3	773	7345358975251468	CMakeFiles/C__Heap_Operations.dir/main.cpp.obj	808b422e8de9a4c9
+774	1012	7345358977550815	C__Heap_Operations.exe	c378810c295ca6d7
+4	806	7345360479232214	CMakeFiles/C__Heap_Operations.dir/main.cpp.obj	808b422e8de9a4c9
+806	1033	7345360481386863	C__Heap_Operations.exe	c378810c295ca6d7
+2	778	7345366060233888	CMakeFiles/C__Heap_Operations.dir/main.cpp.obj	808b422e8de9a4c9
+779	997	7345366062391963	C__Heap_Operations.exe	c378810c295ca6d7
+3	822	7345422665970481	CMakeFiles/C__Heap_Operations.dir/main.cpp.obj	808b422e8de9a4c9
+823	1103	7345422668697320	C__Heap_Operations.exe	c378810c295ca6d7
+2	679	7345423759836864	CMakeFiles/C__Heap_Operations.dir/main.cpp.obj	808b422e8de9a4c9
+679	904	7345423762024373	C__Heap_Operations.exe	c378810c295ca6d7
+2	878	7345424928995193	CMakeFiles/C__Heap_Operations.dir/main.cpp.obj	808b422e8de9a4c9
+878	1075	7345424930870502	C__Heap_Operations.exe	c378810c295ca6d7
+2	896	7345425516065655	CMakeFiles/C__Heap_Operations.dir/main.cpp.obj	808b422e8de9a4c9
+897	1163	7345425518659011	C__Heap_Operations.exe	c378810c295ca6d7
+2	710	7345425917889221	CMakeFiles/C__Heap_Operations.dir/main.cpp.obj	808b422e8de9a4c9
+710	903	7345425919781081	C__Heap_Operations.exe	c378810c295ca6d7
+4	735	7345426986559082	CMakeFiles/C__Heap_Operations.dir/main.cpp.obj	808b422e8de9a4c9
+736	948	7345426988590742	C__Heap_Operations.exe	c378810c295ca6d7
+2	856	7345428152364831	CMakeFiles/C__Heap_Operations.dir/main.cpp.obj	808b422e8de9a4c9
+856	1142	7345428155185387	C__Heap_Operations.exe	c378810c295ca6d7
