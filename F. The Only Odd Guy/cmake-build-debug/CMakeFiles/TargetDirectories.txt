@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/F. The Only Odd Guy/cmake-build-debug/CMakeFiles/F__The_Only_Odd_Guy.dir
+D:/Section/ps/Code-Force/F. The Only Odd Guy/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/F. The Only Odd Guy/cmake-build-debug/CMakeFiles/rebuild_cache.dir

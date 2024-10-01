@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/J - Helpful Maths/cmake-build-debug/CMakeFiles/J___Helpful_Maths.dir
+D:/Section/ps/Code-Force/J - Helpful Maths/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/J - Helpful Maths/cmake-build-debug/CMakeFiles/rebuild_cache.dir

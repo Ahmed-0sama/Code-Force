@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/M - Factors of Factorial/cmake-build-debug/CMakeFiles/M___Factors_of_Factorial.dir
+D:/Section/ps/Code-Force/M - Factors of Factorial/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/M - Factors of Factorial/cmake-build-debug/CMakeFiles/rebuild_cache.dir

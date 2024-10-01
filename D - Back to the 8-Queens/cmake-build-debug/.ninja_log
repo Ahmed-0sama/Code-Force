@@ -1,0 +1,25 @@
+# ninja log v5
+0	787	7472502623861542	CMakeFiles/D___Back_to_the_8_Queens.dir/main.cpp.obj	71d09e3cc3176be
+789	1056	7472502626468818	D___Back_to_the_8_Queens.exe	e96f05814b8c3064
+2	619	7472504140058282	CMakeFiles/D___Back_to_the_8_Queens.dir/main.cpp.obj	71d09e3cc3176be
+620	906	7472504142886699	D___Back_to_the_8_Queens.exe	e96f05814b8c3064
+2	577	7472504448128658	CMakeFiles/D___Back_to_the_8_Queens.dir/main.cpp.obj	71d09e3cc3176be
+577	820	7472504450456265	D___Back_to_the_8_Queens.exe	e96f05814b8c3064
+2	567	7472504906914775	CMakeFiles/D___Back_to_the_8_Queens.dir/main.cpp.obj	71d09e3cc3176be
+567	947	7472504910662332	D___Back_to_the_8_Queens.exe	e96f05814b8c3064
+2	523	7472506020918214	CMakeFiles/D___Back_to_the_8_Queens.dir/main.cpp.obj	71d09e3cc3176be
+524	772	7472506023320947	D___Back_to_the_8_Queens.exe	e96f05814b8c3064
+2	616	7472506765808088	CMakeFiles/D___Back_to_the_8_Queens.dir/main.cpp.obj	71d09e3cc3176be
+616	856	7472506768191042	D___Back_to_the_8_Queens.exe	e96f05814b8c3064
+2	591	7472507050106037	CMakeFiles/D___Back_to_the_8_Queens.dir/main.cpp.obj	71d09e3cc3176be
+592	822	7472507052354402	D___Back_to_the_8_Queens.exe	e96f05814b8c3064
+3	594	7472509865511793	CMakeFiles/D___Back_to_the_8_Queens.dir/main.cpp.obj	71d09e3cc3176be
+595	813	7472509867612425	D___Back_to_the_8_Queens.exe	e96f05814b8c3064
+2	540	7472510740646039	CMakeFiles/D___Back_to_the_8_Queens.dir/main.cpp.obj	71d09e3cc3176be
+541	907	7472510744163764	D___Back_to_the_8_Queens.exe	e96f05814b8c3064
+2	641	7472512051591719	CMakeFiles/D___Back_to_the_8_Queens.dir/main.cpp.obj	71d09e3cc3176be
+642	950	7472512054611562	D___Back_to_the_8_Queens.exe	e96f05814b8c3064
+3	552	7472515106284279	CMakeFiles/D___Back_to_the_8_Queens.dir/main.cpp.obj	71d09e3cc3176be
+552	834	7472515109027930	D___Back_to_the_8_Queens.exe	e96f05814b8c3064
+5	1433	7477807929348187	CMakeFiles/D___Back_to_the_8_Queens.dir/main.cpp.obj	71d09e3cc3176be
+1434	1963	7477807934582985	D___Back_to_the_8_Queens.exe	e96f05814b8c3064

@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/c-The Legend of Freya the Frog/cmake-build-debug/CMakeFiles/c_The_Legend_of_Freya_the_Frog.dir
+D:/Section/ps/Code-Force/c-The Legend of Freya the Frog/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/c-The Legend of Freya the Frog/cmake-build-debug/CMakeFiles/rebuild_cache.dir

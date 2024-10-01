@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B. Sea and Islands/cmake-build-debug/CMakeFiles/B__Sea_and_Islands.dir
+D:/Section/ps/Code-Force/B. Sea and Islands/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B. Sea and Islands/cmake-build-debug/CMakeFiles/rebuild_cache.dir

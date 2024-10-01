@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/M. Ehab the Xorcist/cmake-build-debug/CMakeFiles/M__Ehab_the_Xorcist.dir
+D:/Section/ps/Code-Force/M. Ehab the Xorcist/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/M. Ehab the Xorcist/cmake-build-debug/CMakeFiles/rebuild_cache.dir

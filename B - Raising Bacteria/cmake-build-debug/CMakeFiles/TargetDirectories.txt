@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B - Raising Bacteria/cmake-build-debug/CMakeFiles/B___Raising_Bacteria.dir
+D:/Section/ps/Code-Force/B - Raising Bacteria/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B - Raising Bacteria/cmake-build-debug/CMakeFiles/rebuild_cache.dir

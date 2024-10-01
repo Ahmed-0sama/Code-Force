@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B. Valera and Contest/cmake-build-debug/CMakeFiles/B__Valera_and_Contest.dir
+D:/Section/ps/Code-Force/B. Valera and Contest/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B. Valera and Contest/cmake-build-debug/CMakeFiles/rebuild_cache.dir

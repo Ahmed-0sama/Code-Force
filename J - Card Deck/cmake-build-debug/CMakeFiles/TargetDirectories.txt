@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/J - Card Deck/cmake-build-debug/CMakeFiles/J___Card_Deck.dir
+D:/Section/ps/Code-Force/J - Card Deck/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/J - Card Deck/cmake-build-debug/CMakeFiles/rebuild_cache.dir

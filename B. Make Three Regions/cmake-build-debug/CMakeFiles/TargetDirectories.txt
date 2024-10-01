@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B. Make Three Regions/cmake-build-debug/CMakeFiles/B__Make_Three_Regions.dir
+D:/Section/ps/Code-Force/B. Make Three Regions/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B. Make Three Regions/cmake-build-debug/CMakeFiles/rebuild_cache.dir

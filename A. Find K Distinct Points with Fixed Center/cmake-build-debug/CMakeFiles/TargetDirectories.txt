@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A. Find K Distinct Points with Fixed Center/cmake-build-debug/CMakeFiles/A__Find_K_Distinct_Points_with_Fixed_Center.dir
+D:/Section/ps/Code-Force/A. Find K Distinct Points with Fixed Center/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A. Find K Distinct Points with Fixed Center/cmake-build-debug/CMakeFiles/rebuild_cache.dir

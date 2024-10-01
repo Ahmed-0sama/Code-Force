@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A. Segment Tree for the Sum/cmake-build-debug/CMakeFiles/A__Segment_Tree_for_the_Sum.dir
+D:/Section/ps/Code-Force/A. Segment Tree for the Sum/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A. Segment Tree for the Sum/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B - Sereja and Dima/cmake-build-debug/CMakeFiles/B___Sereja_and_Dima.dir
+D:/Section/ps/Code-Force/B - Sereja and Dima/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B - Sereja and Dima/cmake-build-debug/CMakeFiles/rebuild_cache.dir

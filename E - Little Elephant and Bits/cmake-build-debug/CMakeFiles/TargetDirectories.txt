@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/E - Little Elephant and Bits/cmake-build-debug/CMakeFiles/E___Little_Elephant_and_Bits.dir
+D:/Section/ps/Code-Force/E - Little Elephant and Bits/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/E - Little Elephant and Bits/cmake-build-debug/CMakeFiles/rebuild_cache.dir

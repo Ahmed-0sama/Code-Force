@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/I - Stones on the Table/cmake-build-debug/CMakeFiles/I___Stones_on_the_Table.dir
+D:/Section/ps/Code-Force/I - Stones on the Table/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/I - Stones on the Table/cmake-build-debug/CMakeFiles/rebuild_cache.dir

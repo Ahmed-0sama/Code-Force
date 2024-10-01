@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B. Angry Monk/cmake-build-debug/CMakeFiles/B__Angry_Monk.dir
+D:/Section/ps/Code-Force/B. Angry Monk/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B. Angry Monk/cmake-build-debug/CMakeFiles/rebuild_cache.dir

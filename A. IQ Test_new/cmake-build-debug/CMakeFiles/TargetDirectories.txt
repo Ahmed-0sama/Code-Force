@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A. IQ Test_new/cmake-build-debug/CMakeFiles/A__IQ_Test_new.dir
+D:/Section/ps/Code-Force/A. IQ Test_new/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A. IQ Test_new/cmake-build-debug/CMakeFiles/rebuild_cache.dir

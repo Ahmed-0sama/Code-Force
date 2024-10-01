@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A - Left Rotation/cmake-build-debug/CMakeFiles/A___Left_Rotation.dir
+D:/Section/ps/Code-Force/A - Left Rotation/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A - Left Rotation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

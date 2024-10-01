@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/C - Counting Kangaroos is Fun/cmake-build-debug/CMakeFiles/C___Counting_Kangaroos_is_Fun.dir
+D:/Section/ps/Code-Force/C - Counting Kangaroos is Fun/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/C - Counting Kangaroos is Fun/cmake-build-debug/CMakeFiles/rebuild_cache.dir

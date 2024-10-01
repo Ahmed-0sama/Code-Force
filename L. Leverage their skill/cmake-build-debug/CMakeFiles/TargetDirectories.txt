@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/L. Leverage their skill/cmake-build-debug/CMakeFiles/L__Leverage_their_skill.dir
+D:/Section/ps/Code-Force/L. Leverage their skill/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/L. Leverage their skill/cmake-build-debug/CMakeFiles/rebuild_cache.dir

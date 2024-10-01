@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B. Mahmoud and a Triangle/cmake-build-debug/CMakeFiles/B__Mahmoud_and_a_Triangle.dir
+D:/Section/ps/Code-Force/B. Mahmoud and a Triangle/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B. Mahmoud and a Triangle/cmake-build-debug/CMakeFiles/rebuild_cache.dir

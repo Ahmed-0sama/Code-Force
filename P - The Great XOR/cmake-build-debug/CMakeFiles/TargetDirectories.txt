@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/P - The Great XOR/cmake-build-debug/CMakeFiles/P___The_Great_XOR.dir
+D:/Section/ps/Code-Force/P - The Great XOR/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/P - The Great XOR/cmake-build-debug/CMakeFiles/rebuild_cache.dir

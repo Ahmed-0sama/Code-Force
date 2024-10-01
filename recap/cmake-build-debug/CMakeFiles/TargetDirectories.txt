@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/recap/cmake-build-debug/CMakeFiles/recap.dir
+D:/Section/ps/Code-Force/recap/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/recap/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "R___uNrEaDaBlE_sTrInG",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "R___uNrEaDaBlE_sTrInG::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-R___uNrEaDaBlE_sTrInG-Debug-0ca440d4fcd20c7bc77d.json",
+					"name" : "R___uNrEaDaBlE_sTrInG",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Section/ps/Code-Force/R - uNrEaDaBlE sTrInG/cmake-build-debug",
+		"source" : "D:/Section/ps/Code-Force/R - uNrEaDaBlE sTrInG"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

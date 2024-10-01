@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/E. Eating Queries/cmake-build-debug/CMakeFiles/E__Eating_Queries.dir
+D:/Section/ps/Code-Force/E. Eating Queries/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/E. Eating Queries/cmake-build-debug/CMakeFiles/rebuild_cache.dir

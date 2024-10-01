@@ -1,69 +1,78 @@
 #include <iostream>
 #include <vector>
+using namespace std;
+#include <bits/stdc++.h>
+#define endl '\n'
+#define int long long
+#define fastread() (ios_base::sync_with_stdio(false), cin.tie(NULL))
 
-void merge(std::vector<int>& arr, int left, int mid, int right) {
+void mergeRecursive(vector<int>& arr, vector<int>& L, vector<int>& R, int left, int right, int li, int ri, int k) {
+    if (li == L.size()) {
+
+        while (ri < R.size()) {
+            arr[k++] = R[ri++];
+        }
+        return;
+    }
+    if (ri == R.size()) {
+
+        while (li < L.size()) {
+            arr[k++] = L[li++];
+        }
+        return;
+    }
+    if (L[li] <= R[ri]) {
+        arr[k] = L[li];
+        mergeRecursive(arr, L, R, left, right, li + 1, ri, k + 1);
+    } else {
+        arr[k] = R[ri];
+        mergeRecursive(arr, L, R, left, right, li, ri + 1, k + 1);
+    }
+}
+
+void merge(vector<int>& arr, int left, int mid, int right) {
     int n1 = mid - left + 1;
     int n2 = right - mid;
 
-    std::vector<int> L(n1);
-    std::vector<int> R(n2);
+    vector<int> L(n1), R(n2);
 
-    for (int i = 0; i < n1; ++i)
+    for (int i = 0; i < n1; ++i) {
         L[i] = arr[left + i];
-    for (int i = 0; i < n2; ++i)
+    }
+    for (int i = 0; i < n2; ++i) {
         R[i] = arr[mid + 1 + i];
-
-    int i = 0, j = 0, k = left;
-
-    while (i < n1 && j < n2) {
-        if (L[i] <= R[j]) {
-            arr[k] = L[i];
-            ++i;
-        } else {
-            arr[k] = R[j];
-            ++j;
-        }
-        ++k;
     }
 
-    while (i < n1) {
-        arr[k] = L[i];
-        ++i;
-        ++k;
-    }
-
-    while (j < n2) {
-        arr[k] = R[j];
-        ++j;
-        ++k;
-    }
+    mergeRecursive(arr, L, R, left, right, 0, 0, left);
 }
 
-void mergeSort(std::vector<int>& arr, int left, int right) {
-    if (left < right) {
-        int mid = left + (right - left) / 2;
-        mergeSort(arr, left, mid);
-        mergeSort(arr, mid + 1, right);
-        merge(arr, left, mid, right);
+void mergeSort(vector<int>& arr, int left, int right) {
+    if (left >= right) {
+        return;
     }
+    int mid = left + (right - left) / 2;
+
+    mergeSort(arr, left, mid);
+    mergeSort(arr, mid + 1, right);
+
+    merge(arr, left, mid, right);
 }
 
-int main() {
+signed main() {
+    fastread();
     int N;
-    std::cin >> N;
-    std::vector<int> arr(N);
+    cin >> N;
+    vector<int> arr(N);
 
     for (int i = 0; i < N; ++i) {
-        std::cin >> arr[i];
+        cin >> arr[i];
     }
-
     mergeSort(arr, 0, N - 1);
-
     for (int i = 0; i < N; ++i) {
-        if (i > 0) std::cout << " ";
-        std::cout << arr[i];
+        if (i > 0) cout << " ";
+        cout << arr[i];
     }
-    std::cout << std::endl;
+    cout << endl;
 
     return 0;
 }

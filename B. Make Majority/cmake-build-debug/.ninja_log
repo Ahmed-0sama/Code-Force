@@ -1,0 +1,17 @@
+# ninja log v5
+0	736	7427607774556365	CMakeFiles/B__Make_Majority.dir/main.cpp.obj	26ea4bbcfca96b8b
+739	1007	7427607777188516	B__Make_Majority.exe	69b725cd8a2c29e8
+2	503	7427608114802926	CMakeFiles/B__Make_Majority.dir/main.cpp.obj	26ea4bbcfca96b8b
+503	741	7427608117111264	B__Make_Majority.exe	69b725cd8a2c29e8
+2	577	7427608881679194	CMakeFiles/B__Make_Majority.dir/main.cpp.obj	26ea4bbcfca96b8b
+577	825	7427608884092789	B__Make_Majority.exe	69b725cd8a2c29e8
+2	638	7427609153301133	CMakeFiles/B__Make_Majority.dir/main.cpp.obj	26ea4bbcfca96b8b
+639	896	7427609155811133	B__Make_Majority.exe	69b725cd8a2c29e8
+2	418	7427610051328894	CMakeFiles/B__Make_Majority.dir/main.cpp.obj	26ea4bbcfca96b8b
+418	644	7427610053536052	B__Make_Majority.exe	69b725cd8a2c29e8
+3	412	7427611199609605	CMakeFiles/B__Make_Majority.dir/main.cpp.obj	26ea4bbcfca96b8b
+412	696	7427611202379242	B__Make_Majority.exe	69b725cd8a2c29e8
+3	472	7427612434162026	CMakeFiles/B__Make_Majority.dir/main.cpp.obj	26ea4bbcfca96b8b
+474	755	7427612437021909	B__Make_Majority.exe	69b725cd8a2c29e8
+3	1256	7427612702699931	CMakeFiles/B__Make_Majority.dir/main.cpp.obj	26ea4bbcfca96b8b
+1258	1440	7427612704496848	B__Make_Majority.exe	69b725cd8a2c29e8

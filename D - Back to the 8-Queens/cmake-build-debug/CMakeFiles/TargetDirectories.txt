@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/D - Back to the 8-Queens/cmake-build-debug/CMakeFiles/D___Back_to_the_8_Queens.dir
+D:/Section/ps/Code-Force/D - Back to the 8-Queens/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/D - Back to the 8-Queens/cmake-build-debug/CMakeFiles/rebuild_cache.dir

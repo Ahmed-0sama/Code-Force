@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B. Han Solo and Lazer Gun/cmake-build-debug/CMakeFiles/B__Han_Solo_and_Lazer_Gun.dir
+D:/Section/ps/Code-Force/B. Han Solo and Lazer Gun/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B. Han Solo and Lazer Gun/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="B__2N_Binary_Sequences" targetName="B__2N_Binary_Sequences" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="619eeb86-cf4d-4875-9838-7f878c67e26a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../A. Binary Sequences/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Binary Sequences/.idea/A. Binary Sequences.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Binary Sequences/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Binary Sequences/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Binary Sequences/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/B. 2N Binary Sequences.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-a404d4a8c7591329a3e8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-675877eda702bceeec1b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-5e327a7a0ca67c671c66.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-06-19T17-23-53-0961.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-B__2N_Binary_Sequences-Debug-1fb34930e699a341cc48.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-1dae79f0f28aa62519d3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Generating Subsequences/.idea/C. Generating Subsequences.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Generating Subsequences/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Generating Subsequences/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Generating Subsequences/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Generating Subsequences/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Generating Subsequences/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Generating Subsequences/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C. Restoring Password/.idea/C. Restoring Password.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D. Generating nCr/.idea/D. Generating nCr.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E. Creating Expression1/.idea/E. Creating Expression1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../I. Conected cells/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../I. Conected cells/.idea/I. Conected cells.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../I. Conected cells/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../I. Conected cells/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../I. Conected cells/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../I. Conected cells/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../I. Conected cells/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../I. LIS (easy version)/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../I. LIS (easy version)/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../I. LIS (easy version)/.idea/I. LIS (easy version).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../I. LIS (easy version)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../I. LIS (easy version)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../I. LIS (easy version)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../N. The maximum path-sum/.idea/N. The maximum path-sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../N. Two Strings/.idea/N. Two Strings.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B. Fox and Cross/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../B. Fox and Cross/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D. Merge sort/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../D. Merge sort/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D. Merge sort/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../D. Merge sort/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D. Merge sort/cmake-build-debug/CMakeFiles/D__Merge_sort.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../D. Merge sort/cmake-build-debug/CMakeFiles/D__Merge_sort.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D. Merge sort/cmake-build-debug/D__Merge_sort.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../D. Merge sort/cmake-build-debug/D__Merge_sort.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D. Merge sort/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../D. Merge sort/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../D. Merge sort/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../D. Merge sort/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H. Go from S to E/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../H. Go from S to E/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="2.3" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2i6jGYza6QjfiJdHUjZFzG6bKM2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="B__2N_Binary_Sequences" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="B__2N_Binary_Sequences" TARGET_NAME="B__2N_Binary_Sequences" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="B__2N_Binary_Sequences" RUN_TARGET_NAME="B__2N_Binary_Sequences">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="619eeb86-cf4d-4875-9838-7f878c67e26a" name="Changes" comment="" />
+      <created>1718817826522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718817826522</updated>
+      <workItem from="1718817828137" duration="3062000" />
+      <workItem from="1719057822980" duration="1175000" />
+      <workItem from="1719078342868" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+</project>

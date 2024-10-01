@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/E - Simple Text Editor/cmake-build-debug/CMakeFiles/E___Simple_Text_Editor.dir
+D:/Section/ps/Code-Force/E - Simple Text Editor/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/E - Simple Text Editor/cmake-build-debug/CMakeFiles/rebuild_cache.dir

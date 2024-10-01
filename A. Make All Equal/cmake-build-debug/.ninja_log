@@ -1,0 +1,13 @@
+# ninja log v5
+1	877	7458684501028199	CMakeFiles/A__Make_All_Equal.dir/main.cpp.obj	f072c5d403472c40
+881	1177	7458684503975576	A__Make_All_Equal.exe	b3d24835cf038d97
+2	1029	7458685216252102	CMakeFiles/A__Make_All_Equal.dir/main.cpp.obj	f072c5d403472c40
+1030	1284	7458685218688148	A__Make_All_Equal.exe	b3d24835cf038d97
+2	711	7458685455711940	CMakeFiles/A__Make_All_Equal.dir/main.cpp.obj	f072c5d403472c40
+711	919	7458685457709368	A__Make_All_Equal.exe	b3d24835cf038d97
+2	607	7458686390073207	CMakeFiles/A__Make_All_Equal.dir/main.cpp.obj	f072c5d403472c40
+607	834	7458686392297006	A__Make_All_Equal.exe	b3d24835cf038d97
+3	793	7458687091675645	CMakeFiles/A__Make_All_Equal.dir/main.cpp.obj	f072c5d403472c40
+794	1052	7458687094215581	A__Make_All_Equal.exe	b3d24835cf038d97
+3	774	7458688582836024	CMakeFiles/A__Make_All_Equal.dir/main.cpp.obj	f072c5d403472c40
+775	1030	7458688585351382	A__Make_All_Equal.exe	b3d24835cf038d97

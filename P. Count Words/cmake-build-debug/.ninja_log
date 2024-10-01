@@ -1,3 +1,20 @@
 # ninja log v5
 0	356	7226091697521062	CMakeFiles/P__Count_Words.dir/main.cpp.obj	633a5be47a96afd6
 359	616	7226091700050083	P__Count_Words.exe	7aa5533e1bcc60da
+4	559	7410149026548428	build.ninja	cfab2faba43a5344
+1	874	7410149036183875	CMakeFiles/P__Count_Words.dir/main.cpp.obj	633a5be47a96afd6
+874	1248	7410149039839869	P__Count_Words.exe	7aa5533e1bcc60da
+2	364	7410149918618289	CMakeFiles/P__Count_Words.dir/main.cpp.obj	633a5be47a96afd6
+365	726	7410149921798989	P__Count_Words.exe	7aa5533e1bcc60da
+2	405	7410150099155924	CMakeFiles/P__Count_Words.dir/main.cpp.obj	633a5be47a96afd6
+432	717	7410150102136887	P__Count_Words.exe	7aa5533e1bcc60da
+3	391	7410151495784856	CMakeFiles/P__Count_Words.dir/main.cpp.obj	633a5be47a96afd6
+392	595	7410151497748290	P__Count_Words.exe	7aa5533e1bcc60da
+4	682	7410172126418285	CMakeFiles/P__Count_Words.dir/main.cpp.obj	633a5be47a96afd6
+683	1263	7410172132189957	P__Count_Words.exe	7aa5533e1bcc60da
+2	480	7410172463372599	CMakeFiles/P__Count_Words.dir/main.cpp.obj	633a5be47a96afd6
+480	779	7410172466292804	P__Count_Words.exe	7aa5533e1bcc60da
+2	381	7410172890166881	CMakeFiles/P__Count_Words.dir/main.cpp.obj	633a5be47a96afd6
+381	612	7410172892368844	P__Count_Words.exe	7aa5533e1bcc60da
+3	625	7410173723679866	CMakeFiles/P__Count_Words.dir/main.cpp.obj	633a5be47a96afd6
+625	1021	7410173727791639	P__Count_Words.exe	7aa5533e1bcc60da

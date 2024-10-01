@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/L. Luxor  qualification day4/cmake-build-debug/CMakeFiles/L__Luxor__qualification_day4.dir
+D:/Section/ps/Code-Force/L. Luxor  qualification day4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/L. Luxor  qualification day4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

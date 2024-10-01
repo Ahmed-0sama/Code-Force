@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/J - Printing some primes/cmake-build-debug/CMakeFiles/J___Printing_some_primes.dir
+D:/Section/ps/Code-Force/J - Printing some primes/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/J - Printing some primes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

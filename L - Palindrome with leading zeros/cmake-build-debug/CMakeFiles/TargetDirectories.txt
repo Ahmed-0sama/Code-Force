@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/L - Palindrome with leading zeros/cmake-build-debug/CMakeFiles/L___Palindrome_with_leading_zeros.dir
+D:/Section/ps/Code-Force/L - Palindrome with leading zeros/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/L - Palindrome with leading zeros/cmake-build-debug/CMakeFiles/rebuild_cache.dir

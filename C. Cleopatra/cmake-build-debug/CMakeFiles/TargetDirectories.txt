@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/C. Cleopatra/cmake-build-debug/CMakeFiles/C__Cleopatra.dir
+D:/Section/ps/Code-Force/C. Cleopatra/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/C. Cleopatra/cmake-build-debug/CMakeFiles/rebuild_cache.dir

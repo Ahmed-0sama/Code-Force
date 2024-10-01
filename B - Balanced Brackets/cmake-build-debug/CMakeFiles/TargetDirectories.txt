@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B - Balanced Brackets/cmake-build-debug/CMakeFiles/B___Balanced_Brackets.dir
+D:/Section/ps/Code-Force/B - Balanced Brackets/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B - Balanced Brackets/cmake-build-debug/CMakeFiles/rebuild_cache.dir

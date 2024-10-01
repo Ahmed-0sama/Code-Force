@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/J. Jewels/cmake-build-debug/CMakeFiles/J__Jewels.dir
+D:/Section/ps/Code-Force/J. Jewels/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/J. Jewels/cmake-build-debug/CMakeFiles/rebuild_cache.dir

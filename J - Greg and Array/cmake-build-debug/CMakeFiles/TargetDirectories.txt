@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/J - Greg and Array/cmake-build-debug/CMakeFiles/J___Greg_and_Array.dir
+D:/Section/ps/Code-Force/J - Greg and Array/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/J - Greg and Array/cmake-build-debug/CMakeFiles/rebuild_cache.dir

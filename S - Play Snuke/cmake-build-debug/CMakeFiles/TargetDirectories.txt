@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/S - Play Snuke/cmake-build-debug/CMakeFiles/S___Play_Snuke.dir
+D:/Section/ps/Code-Force/S - Play Snuke/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/S - Play Snuke/cmake-build-debug/CMakeFiles/rebuild_cache.dir

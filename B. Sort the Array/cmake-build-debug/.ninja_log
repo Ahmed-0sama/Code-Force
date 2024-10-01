@@ -1,0 +1,13 @@
+# ninja log v5
+1	2824	7413693382608496	CMakeFiles/B__Sort_the_Array.dir/main.cpp.obj	490fabb0869e18e9
+2838	3282	7413693387096919	B__Sort_the_Array.exe	cdf056b2a98871f5
+8	2706	7413694145139701	CMakeFiles/B__Sort_the_Array.dir/main.cpp.obj	490fabb0869e18e9
+2706	3188	7413694149873036	B__Sort_the_Array.exe	cdf056b2a98871f5
+10	3525	7413694545797799	CMakeFiles/B__Sort_the_Array.dir/main.cpp.obj	490fabb0869e18e9
+3526	4114	7413694551599088	B__Sort_the_Array.exe	cdf056b2a98871f5
+9	3423	7413699385708485	CMakeFiles/B__Sort_the_Array.dir/main.cpp.obj	490fabb0869e18e9
+3424	3861	7413699389972824	B__Sort_the_Array.exe	cdf056b2a98871f5
+10	3560	7413700778563256	CMakeFiles/B__Sort_the_Array.dir/main.cpp.obj	490fabb0869e18e9
+3561	4288	7413700785570751	B__Sort_the_Array.exe	cdf056b2a98871f5
+2	1950	7413809190340659	CMakeFiles/B__Sort_the_Array.dir/main.cpp.obj	490fabb0869e18e9
+1951	2183	7413809192570944	B__Sort_the_Array.exe	cdf056b2a98871f5

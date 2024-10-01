@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/J - AND, OR and square sum/cmake-build-debug/CMakeFiles/J___AND__OR_and_square_sum.dir
+D:/Section/ps/Code-Force/J - AND, OR and square sum/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/J - AND, OR and square sum/cmake-build-debug/CMakeFiles/rebuild_cache.dir

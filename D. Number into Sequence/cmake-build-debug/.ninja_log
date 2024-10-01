@@ -1,0 +1,21 @@
+# ninja log v5
+1	930	7485599080992192	CMakeFiles/D__Number_into_Sequence.dir/main.cpp.obj	181f61073a420bb
+935	1219	7485599083830586	D__Number_into_Sequence.exe	484f7f436484e660
+2	549	7485599497098747	CMakeFiles/D__Number_into_Sequence.dir/main.cpp.obj	181f61073a420bb
+550	779	7485599499357017	D__Number_into_Sequence.exe	484f7f436484e660
+2	674	7485599618806811	CMakeFiles/D__Number_into_Sequence.dir/main.cpp.obj	181f61073a420bb
+674	895	7485599620943396	D__Number_into_Sequence.exe	484f7f436484e660
+3	792	7485600054685311	CMakeFiles/D__Number_into_Sequence.dir/main.cpp.obj	181f61073a420bb
+792	1039	7485600057106590	D__Number_into_Sequence.exe	484f7f436484e660
+2	581	7485600147698397	CMakeFiles/D__Number_into_Sequence.dir/main.cpp.obj	181f61073a420bb
+582	836	7485600150233094	D__Number_into_Sequence.exe	484f7f436484e660
+2	727	7485602935791852	CMakeFiles/D__Number_into_Sequence.dir/main.cpp.obj	181f61073a420bb
+727	972	7485602938355372	D__Number_into_Sequence.exe	484f7f436484e660
+1	487	7485603626774311	CMakeFiles/D__Number_into_Sequence.dir/main.cpp.obj	181f61073a420bb
+487	672	7485603628587557	D__Number_into_Sequence.exe	484f7f436484e660
+3	701	7485604569832130	CMakeFiles/D__Number_into_Sequence.dir/main.cpp.obj	181f61073a420bb
+702	959	7485604572393783	D__Number_into_Sequence.exe	484f7f436484e660
+2	763	7485606106219474	CMakeFiles/D__Number_into_Sequence.dir/main.cpp.obj	181f61073a420bb
+764	1042	7485606109334418	D__Number_into_Sequence.exe	484f7f436484e660
+2	537	7485606270130410	CMakeFiles/D__Number_into_Sequence.dir/main.cpp.obj	181f61073a420bb
+538	784	7485606272613811	D__Number_into_Sequence.exe	484f7f436484e660

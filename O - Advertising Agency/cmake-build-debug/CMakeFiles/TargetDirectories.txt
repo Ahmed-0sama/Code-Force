@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/O - Advertising Agency/cmake-build-debug/CMakeFiles/O___Advertising_Agency.dir
+D:/Section/ps/Code-Force/O - Advertising Agency/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/O - Advertising Agency/cmake-build-debug/CMakeFiles/rebuild_cache.dir

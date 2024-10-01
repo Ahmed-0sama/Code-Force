@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/K. Permutation/cmake-build-debug/CMakeFiles/K__Permutation.dir
+D:/Section/ps/Code-Force/K. Permutation/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/K. Permutation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

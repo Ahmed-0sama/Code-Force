@@ -1,0 +1,23 @@
+# ninja log v5
+1	1519	7479334718081275	CMakeFiles/L___Maximum_K_Sums.dir/main.cpp.obj	6e1424c1c989256a
+1522	1951	7479334722409288	L___Maximum_K_Sums.exe	aa6d2d89006fe3ba
+4	1298	7479335459536859	CMakeFiles/L___Maximum_K_Sums.dir/main.cpp.obj	6e1424c1c989256a
+1298	1636	7479335462829065	L___Maximum_K_Sums.exe	aa6d2d89006fe3ba
+3	1007	7479336687116214	CMakeFiles/L___Maximum_K_Sums.dir/main.cpp.obj	6e1424c1c989256a
+1007	1228	7479336689210897	L___Maximum_K_Sums.exe	aa6d2d89006fe3ba
+2	696	7479337253819796	CMakeFiles/L___Maximum_K_Sums.dir/main.cpp.obj	6e1424c1c989256a
+697	922	7479337255982524	L___Maximum_K_Sums.exe	aa6d2d89006fe3ba
+2	740	7479337401954508	CMakeFiles/L___Maximum_K_Sums.dir/main.cpp.obj	6e1424c1c989256a
+741	1006	7479337404584189	L___Maximum_K_Sums.exe	aa6d2d89006fe3ba
+2	593	7479337772625764	CMakeFiles/L___Maximum_K_Sums.dir/main.cpp.obj	6e1424c1c989256a
+593	844	7479337775109297	L___Maximum_K_Sums.exe	aa6d2d89006fe3ba
+2	907	7479338455510534	CMakeFiles/L___Maximum_K_Sums.dir/main.cpp.obj	6e1424c1c989256a
+908	1179	7479338458187686	L___Maximum_K_Sums.exe	aa6d2d89006fe3ba
+2	1227	7481306529071157	CMakeFiles/L___Maximum_K_Sums.dir/main.cpp.obj	6e1424c1c989256a
+1228	1559	7481306532198648	L___Maximum_K_Sums.exe	aa6d2d89006fe3ba
+3	812	7481307283070767	CMakeFiles/L___Maximum_K_Sums.dir/main.cpp.obj	6e1424c1c989256a
+813	1034	7481307285255185	L___Maximum_K_Sums.exe	aa6d2d89006fe3ba
+2	1470	7481308044283229	CMakeFiles/L___Maximum_K_Sums.dir/main.cpp.obj	6e1424c1c989256a
+1471	1911	7481308048561521	L___Maximum_K_Sums.exe	aa6d2d89006fe3ba
+2	1183	7481308729164302	CMakeFiles/L___Maximum_K_Sums.dir/main.cpp.obj	6e1424c1c989256a
+1183	1392	7481308731183464	L___Maximum_K_Sums.exe	aa6d2d89006fe3ba

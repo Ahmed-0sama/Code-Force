@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/F - Mark and Toys/cmake-build-debug/CMakeFiles/F___Mark_and_Toys.dir
+D:/Section/ps/Code-Force/F - Mark and Toys/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/F - Mark and Toys/cmake-build-debug/CMakeFiles/rebuild_cache.dir

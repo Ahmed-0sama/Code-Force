@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B. Burglar and Matches/cmake-build-debug/CMakeFiles/B__Burglar_and_Matches.dir
+D:/Section/ps/Code-Force/B. Burglar and Matches/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B. Burglar and Matches/cmake-build-debug/CMakeFiles/rebuild_cache.dir

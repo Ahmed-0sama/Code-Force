@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B. Growing Mushrooms/cmake-build-debug/CMakeFiles/B__Growing_Mushrooms.dir
+D:/Section/ps/Code-Force/B. Growing Mushrooms/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B. Growing Mushrooms/cmake-build-debug/CMakeFiles/rebuild_cache.dir

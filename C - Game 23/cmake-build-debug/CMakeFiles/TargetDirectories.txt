@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/C - Game 23/cmake-build-debug/CMakeFiles/C___Game_23.dir
+D:/Section/ps/Code-Force/C - Game 23/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/C - Game 23/cmake-build-debug/CMakeFiles/rebuild_cache.dir

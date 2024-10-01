@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B. Segment Tree for the Minimum/cmake-build-debug/CMakeFiles/B__Segment_Tree_for_the_Minimum.dir
+D:/Section/ps/Code-Force/B. Segment Tree for the Minimum/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B. Segment Tree for the Minimum/cmake-build-debug/CMakeFiles/rebuild_cache.dir

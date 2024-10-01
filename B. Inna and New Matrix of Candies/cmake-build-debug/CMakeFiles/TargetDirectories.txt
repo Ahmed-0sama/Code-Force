@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B. Inna and New Matrix of Candies/cmake-build-debug/CMakeFiles/B__Inna_and_New_Matrix_of_Candies.dir
+D:/Section/ps/Code-Force/B. Inna and New Matrix of Candies/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B. Inna and New Matrix of Candies/cmake-build-debug/CMakeFiles/rebuild_cache.dir

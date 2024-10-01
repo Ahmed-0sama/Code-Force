@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/G. Generating sorted subsequences/cmake-build-debug/CMakeFiles/G__Generating_sorted_subsequences.dir
+D:/Section/ps/Code-Force/G. Generating sorted subsequences/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/G. Generating sorted subsequences/cmake-build-debug/CMakeFiles/rebuild_cache.dir

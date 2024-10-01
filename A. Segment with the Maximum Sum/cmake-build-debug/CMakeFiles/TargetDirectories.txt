@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A. Segment with the Maximum Sum/cmake-build-debug/CMakeFiles/A__Segment_with_the_Maximum_Sum.dir
+D:/Section/ps/Code-Force/A. Segment with the Maximum Sum/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A. Segment with the Maximum Sum/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B. Chat Online/cmake-build-debug/CMakeFiles/B__Chat_Online.dir
+D:/Section/ps/Code-Force/B. Chat Online/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B. Chat Online/cmake-build-debug/CMakeFiles/rebuild_cache.dir

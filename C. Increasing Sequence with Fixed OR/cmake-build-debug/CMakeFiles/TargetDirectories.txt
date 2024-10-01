@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/C. Increasing Sequence with Fixed OR/cmake-build-debug/CMakeFiles/C__Increasing_Sequence_with_Fixed_OR.dir
+D:/Section/ps/Code-Force/C. Increasing Sequence with Fixed OR/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/C. Increasing Sequence with Fixed OR/cmake-build-debug/CMakeFiles/rebuild_cache.dir

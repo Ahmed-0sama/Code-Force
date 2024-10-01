@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "B__Inna_and_New_Matrix_of_Candies",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "B__Inna_and_New_Matrix_of_Candies::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-B__Inna_and_New_Matrix_of_Candies-Debug-8d4dbc1757dd13573f0f.json",
+					"name" : "B__Inna_and_New_Matrix_of_Candies",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Section/ps/Code-Force/B. Inna and New Matrix of Candies/cmake-build-debug",
+		"source" : "D:/Section/ps/Code-Force/B. Inna and New Matrix of Candies"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

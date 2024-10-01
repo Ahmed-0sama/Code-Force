@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/F - Sum It Up/cmake-build-debug/CMakeFiles/F___Sum_It_Up.dir
+D:/Section/ps/Code-Force/F - Sum It Up/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/F - Sum It Up/cmake-build-debug/CMakeFiles/rebuild_cache.dir

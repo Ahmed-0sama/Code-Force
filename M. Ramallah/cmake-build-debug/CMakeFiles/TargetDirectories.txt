@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/M. Ramallah/cmake-build-debug/CMakeFiles/M__Ramallah.dir
+D:/Section/ps/Code-Force/M. Ramallah/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/M. Ramallah/cmake-build-debug/CMakeFiles/rebuild_cache.dir

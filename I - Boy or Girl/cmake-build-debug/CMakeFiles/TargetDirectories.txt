@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/I - Boy or Girl/cmake-build-debug/CMakeFiles/I___Boy_or_Girl.dir
+D:/Section/ps/Code-Force/I - Boy or Girl/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/I - Boy or Girl/cmake-build-debug/CMakeFiles/rebuild_cache.dir

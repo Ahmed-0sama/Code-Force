@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A. Al-Quds/cmake-build-debug/CMakeFiles/A__Al_Quds.dir
+D:/Section/ps/Code-Force/A. Al-Quds/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A. Al-Quds/cmake-build-debug/CMakeFiles/rebuild_cache.dir

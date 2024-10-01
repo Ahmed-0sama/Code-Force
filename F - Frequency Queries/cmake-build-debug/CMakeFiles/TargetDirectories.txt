@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/F - Frequency Queries/cmake-build-debug/CMakeFiles/F___Frequency_Queries.dir
+D:/Section/ps/Code-Force/F - Frequency Queries/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/F - Frequency Queries/cmake-build-debug/CMakeFiles/rebuild_cache.dir

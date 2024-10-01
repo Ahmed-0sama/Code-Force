@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "F___Fishing_Traditions_of_Tiberias",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "F___Fishing_Traditions_of_Tiberias::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-F___Fishing_Traditions_of_Tiberias-Debug-84ad86f199284c6d6086.json",
+					"name" : "F___Fishing_Traditions_of_Tiberias",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Section/ps/Code-Force/F - Fishing Traditions of Tiberias/cmake-build-debug",
+		"source" : "D:/Section/ps/Code-Force/F - Fishing Traditions of Tiberias"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

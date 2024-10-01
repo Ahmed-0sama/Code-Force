@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/C. Can look like a/cmake-build-debug/CMakeFiles/C__Can_look_like_a.dir
+D:/Section/ps/Code-Force/C. Can look like a/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/C. Can look like a/cmake-build-debug/CMakeFiles/rebuild_cache.dir

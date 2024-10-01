@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/M. N Queens/cmake-build-debug/CMakeFiles/M__N_Queens.dir
+D:/Section/ps/Code-Force/M. N Queens/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/M. N Queens/cmake-build-debug/CMakeFiles/rebuild_cache.dir

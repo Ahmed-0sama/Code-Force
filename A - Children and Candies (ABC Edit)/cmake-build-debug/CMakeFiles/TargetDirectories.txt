@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A - Children and Candies (ABC Edit)/cmake-build-debug/CMakeFiles/A___Children_and_Candies__ABC_Edit_.dir
+D:/Section/ps/Code-Force/A - Children and Candies (ABC Edit)/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A - Children and Candies (ABC Edit)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

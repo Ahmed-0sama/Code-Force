@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "A__Find_K_Distinct_Points_with_Fixed_Center",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "A__Find_K_Distinct_Points_with_Fixed_Center::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A__Find_K_Distinct_Points_with_Fixed_Center-Debug-d853737d2078e3c84ea3.json",
+					"name" : "A__Find_K_Distinct_Points_with_Fixed_Center",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Section/ps/Code-Force/A. Find K Distinct Points with Fixed Center/cmake-build-debug",
+		"source" : "D:/Section/ps/Code-Force/A. Find K Distinct Points with Fixed Center"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

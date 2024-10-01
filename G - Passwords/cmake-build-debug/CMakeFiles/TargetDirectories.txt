@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/G - Passwords/cmake-build-debug/CMakeFiles/G___Passwords.dir
+D:/Section/ps/Code-Force/G - Passwords/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/G - Passwords/cmake-build-debug/CMakeFiles/rebuild_cache.dir

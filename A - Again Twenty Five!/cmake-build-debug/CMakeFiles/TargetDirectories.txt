@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A - Again Twenty Five!/cmake-build-debug/CMakeFiles/A___Again_Twenty_Five_.dir
+D:/Section/ps/Code-Force/A - Again Twenty Five!/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A - Again Twenty Five!/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/M. Megiddo/cmake-build-debug/CMakeFiles/M__Megiddo.dir
+D:/Section/ps/Code-Force/M. Megiddo/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/M. Megiddo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

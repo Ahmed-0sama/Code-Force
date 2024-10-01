@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/D - Diverse Culture of Al-Khalil/cmake-build-debug/CMakeFiles/D___Diverse_Culture_of_Al_Khalil.dir
+D:/Section/ps/Code-Force/D - Diverse Culture of Al-Khalil/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/D - Diverse Culture of Al-Khalil/cmake-build-debug/CMakeFiles/rebuild_cache.dir

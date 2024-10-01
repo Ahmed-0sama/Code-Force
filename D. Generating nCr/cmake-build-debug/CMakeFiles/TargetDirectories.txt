@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/D. Generating nCr/cmake-build-debug/CMakeFiles/D__Generating_nCr.dir
+D:/Section/ps/Code-Force/D. Generating nCr/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/D. Generating nCr/cmake-build-debug/CMakeFiles/rebuild_cache.dir

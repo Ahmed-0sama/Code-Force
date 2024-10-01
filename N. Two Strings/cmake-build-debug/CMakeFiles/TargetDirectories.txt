@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/N. Two Strings/cmake-build-debug/CMakeFiles/N__Two_Strings.dir
+D:/Section/ps/Code-Force/N. Two Strings/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/N. Two Strings/cmake-build-debug/CMakeFiles/rebuild_cache.dir

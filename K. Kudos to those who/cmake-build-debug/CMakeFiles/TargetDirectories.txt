@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/K. Kudos to those who/cmake-build-debug/CMakeFiles/K__Kudos_to_those_who.dir
+D:/Section/ps/Code-Force/K. Kudos to those who/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/K. Kudos to those who/cmake-build-debug/CMakeFiles/rebuild_cache.dir

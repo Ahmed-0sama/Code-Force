@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/E. Bashar and the bad land (Hard)/cmake-build-debug/CMakeFiles/E__Bashar_and_the_bad_land__Hard_.dir
+D:/Section/ps/Code-Force/E. Bashar and the bad land (Hard)/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/E. Bashar and the bad land (Hard)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B. Bear and Finding Criminals/cmake-build-debug/CMakeFiles/B__Bear_and_Finding_Criminals.dir
+D:/Section/ps/Code-Force/B. Bear and Finding Criminals/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B. Bear and Finding Criminals/cmake-build-debug/CMakeFiles/rebuild_cache.dir

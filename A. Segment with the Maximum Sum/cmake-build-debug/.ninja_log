@@ -1,0 +1,13 @@
+# ninja log v5
+0	1864	7437253574097211	CMakeFiles/A__Segment_with_the_Maximum_Sum.dir/main.cpp.obj	859832b48c71eb83
+1868	2223	7437253577363147	A__Segment_with_the_Maximum_Sum.exe	6bca56fda4b20dab
+3	1427	7437254933435876	CMakeFiles/A__Segment_with_the_Maximum_Sum.dir/main.cpp.obj	859832b48c71eb83
+1427	1649	7437254935560383	A__Segment_with_the_Maximum_Sum.exe	6bca56fda4b20dab
+3	1309	7437256028199914	CMakeFiles/A__Segment_with_the_Maximum_Sum.dir/main.cpp.obj	859832b48c71eb83
+1310	1523	7437256030244074	A__Segment_with_the_Maximum_Sum.exe	6bca56fda4b20dab
+2	1149	7437256327918202	CMakeFiles/A__Segment_with_the_Maximum_Sum.dir/main.cpp.obj	859832b48c71eb83
+1149	1333	7437256329702330	A__Segment_with_the_Maximum_Sum.exe	6bca56fda4b20dab
+3	1618	7437258074469182	CMakeFiles/A__Segment_with_the_Maximum_Sum.dir/main.cpp.obj	859832b48c71eb83
+1618	1879	7437258076969978	A__Segment_with_the_Maximum_Sum.exe	6bca56fda4b20dab
+3	597	7437259984113227	CMakeFiles/A__Segment_with_the_Maximum_Sum.dir/main.cpp.obj	859832b48c71eb83
+598	793	7437259986016095	A__Segment_with_the_Maximum_Sum.exe	6bca56fda4b20dab

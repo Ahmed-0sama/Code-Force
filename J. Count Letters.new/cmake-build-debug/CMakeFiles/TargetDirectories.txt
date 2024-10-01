@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/J. Count Letters.new/cmake-build-debug/CMakeFiles/J__Count_Letters_new.dir
+D:/Section/ps/Code-Force/J. Count Letters.new/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/J. Count Letters.new/cmake-build-debug/CMakeFiles/rebuild_cache.dir

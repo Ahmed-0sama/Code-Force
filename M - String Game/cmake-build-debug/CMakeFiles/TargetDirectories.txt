@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/M - String Game/cmake-build-debug/CMakeFiles/M___String_Game.dir
+D:/Section/ps/Code-Force/M - String Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/M - String Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir

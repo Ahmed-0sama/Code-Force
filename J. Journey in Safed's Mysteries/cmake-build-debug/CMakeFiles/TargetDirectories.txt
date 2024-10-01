@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/J. Journey in Safed's Mysteries/cmake-build-debug/CMakeFiles/J__Journey_in_Safed_s_Mysteries.dir
+D:/Section/ps/Code-Force/J. Journey in Safed's Mysteries/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/J. Journey in Safed's Mysteries/cmake-build-debug/CMakeFiles/rebuild_cache.dir

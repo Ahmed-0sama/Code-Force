@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/D - Preparing Olympiad/cmake-build-debug/CMakeFiles/D___Preparing_Olympiad.dir
+D:/Section/ps/Code-Force/D - Preparing Olympiad/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/D - Preparing Olympiad/cmake-build-debug/CMakeFiles/rebuild_cache.dir

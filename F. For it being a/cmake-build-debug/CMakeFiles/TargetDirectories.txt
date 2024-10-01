@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/F. For it being a/cmake-build-debug/CMakeFiles/F__For_it_being_a.dir
+D:/Section/ps/Code-Force/F. For it being a/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/F. For it being a/cmake-build-debug/CMakeFiles/rebuild_cache.dir

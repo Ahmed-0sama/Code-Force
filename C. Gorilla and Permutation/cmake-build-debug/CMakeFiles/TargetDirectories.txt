@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/C. Gorilla and Permutation/cmake-build-debug/CMakeFiles/C__Gorilla_and_Permutation.dir
+D:/Section/ps/Code-Force/C. Gorilla and Permutation/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/C. Gorilla and Permutation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

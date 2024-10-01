@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/L - Red Scarf/cmake-build-debug/CMakeFiles/L___Red_Scarf.dir
+D:/Section/ps/Code-Force/L - Red Scarf/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/L - Red Scarf/cmake-build-debug/CMakeFiles/rebuild_cache.dir

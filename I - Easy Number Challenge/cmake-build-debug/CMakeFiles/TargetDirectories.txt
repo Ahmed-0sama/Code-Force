@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/I - Easy Number Challenge/cmake-build-debug/CMakeFiles/I___Easy_Number_Challenge.dir
+D:/Section/ps/Code-Force/I - Easy Number Challenge/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/I - Easy Number Challenge/cmake-build-debug/CMakeFiles/rebuild_cache.dir

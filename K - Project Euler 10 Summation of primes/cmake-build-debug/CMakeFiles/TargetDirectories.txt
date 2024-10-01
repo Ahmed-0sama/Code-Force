@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/K - Project Euler 10 Summation of primes/cmake-build-debug/CMakeFiles/K___Project_Euler_10_Summation_of_primes.dir
+D:/Section/ps/Code-Force/K - Project Euler 10 Summation of primes/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/K - Project Euler 10 Summation of primes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

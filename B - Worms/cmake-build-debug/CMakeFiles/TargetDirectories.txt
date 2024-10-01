@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B - Worms/cmake-build-debug/CMakeFiles/B___Worms.dir
+D:/Section/ps/Code-Force/B - Worms/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B - Worms/cmake-build-debug/CMakeFiles/rebuild_cache.dir

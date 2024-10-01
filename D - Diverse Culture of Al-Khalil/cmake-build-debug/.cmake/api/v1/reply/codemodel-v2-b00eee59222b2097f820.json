@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "D___Diverse_Culture_of_Al_Khalil",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "D___Diverse_Culture_of_Al_Khalil::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-D___Diverse_Culture_of_Al_Khalil-Debug-5de94a3ea4b3e33c35fa.json",
+					"name" : "D___Diverse_Culture_of_Al_Khalil",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Section/ps/Code-Force/D - Diverse Culture of Al-Khalil/cmake-build-debug",
+		"source" : "D:/Section/ps/Code-Force/D - Diverse Culture of Al-Khalil"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

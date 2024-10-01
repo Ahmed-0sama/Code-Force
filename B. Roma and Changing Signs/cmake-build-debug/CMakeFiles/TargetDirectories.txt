@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B. Roma and Changing Signs/cmake-build-debug/CMakeFiles/B__Roma_and_Changing_Signs.dir
+D:/Section/ps/Code-Force/B. Roma and Changing Signs/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B. Roma and Changing Signs/cmake-build-debug/CMakeFiles/rebuild_cache.dir

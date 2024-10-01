@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/d-Satyam and Counting/cmake-build-debug/CMakeFiles/d_Satyam_and_Counting.dir
+D:/Section/ps/Code-Force/d-Satyam and Counting/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/d-Satyam and Counting/cmake-build-debug/CMakeFiles/rebuild_cache.dir

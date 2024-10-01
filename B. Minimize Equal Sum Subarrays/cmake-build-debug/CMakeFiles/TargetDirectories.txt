@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B. Minimize Equal Sum Subarrays/cmake-build-debug/CMakeFiles/B__Minimize_Equal_Sum_Subarrays.dir
+D:/Section/ps/Code-Force/B. Minimize Equal Sum Subarrays/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B. Minimize Equal Sum Subarrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/D - Partition/cmake-build-debug/CMakeFiles/D___Partition.dir
+D:/Section/ps/Code-Force/D - Partition/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/D - Partition/cmake-build-debug/CMakeFiles/rebuild_cache.dir

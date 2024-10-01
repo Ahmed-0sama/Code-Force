@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/R - uNrEaDaBlE sTrInG/cmake-build-debug/CMakeFiles/R___uNrEaDaBlE_sTrInG.dir
+D:/Section/ps/Code-Force/R - uNrEaDaBlE sTrInG/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/R - uNrEaDaBlE sTrInG/cmake-build-debug/CMakeFiles/rebuild_cache.dir

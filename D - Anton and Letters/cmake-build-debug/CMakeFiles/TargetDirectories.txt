@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/D - Anton and Letters/cmake-build-debug/CMakeFiles/D___Anton_and_Letters.dir
+D:/Section/ps/Code-Force/D - Anton and Letters/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/D - Anton and Letters/cmake-build-debug/CMakeFiles/rebuild_cache.dir

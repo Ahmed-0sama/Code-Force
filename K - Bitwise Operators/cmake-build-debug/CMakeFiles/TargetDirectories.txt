@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/K - Bitwise Operators/cmake-build-debug/CMakeFiles/K___Bitwise_Operators.dir
+D:/Section/ps/Code-Force/K - Bitwise Operators/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/K - Bitwise Operators/cmake-build-debug/CMakeFiles/rebuild_cache.dir

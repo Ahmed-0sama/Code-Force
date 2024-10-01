@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/M - Maximizing XOR/cmake-build-debug/CMakeFiles/M___Maximizing_XOR.dir
+D:/Section/ps/Code-Force/M - Maximizing XOR/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/M - Maximizing XOR/cmake-build-debug/CMakeFiles/rebuild_cache.dir

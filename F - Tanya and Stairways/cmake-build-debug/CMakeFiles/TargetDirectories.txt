@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/F - Tanya and Stairways/cmake-build-debug/CMakeFiles/F___Tanya_and_Stairways.dir
+D:/Section/ps/Code-Force/F - Tanya and Stairways/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/F - Tanya and Stairways/cmake-build-debug/CMakeFiles/rebuild_cache.dir

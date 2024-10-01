@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/L - Maximum K Sums/cmake-build-debug/CMakeFiles/L___Maximum_K_Sums.dir
+D:/Section/ps/Code-Force/L - Maximum K Sums/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/L - Maximum K Sums/cmake-build-debug/CMakeFiles/rebuild_cache.dir

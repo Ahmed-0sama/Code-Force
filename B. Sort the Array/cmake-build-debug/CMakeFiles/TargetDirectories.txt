@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B. Sort the Array/cmake-build-debug/CMakeFiles/B__Sort_the_Array.dir
+D:/Section/ps/Code-Force/B. Sort the Array/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B. Sort the Array/cmake-build-debug/CMakeFiles/rebuild_cache.dir
