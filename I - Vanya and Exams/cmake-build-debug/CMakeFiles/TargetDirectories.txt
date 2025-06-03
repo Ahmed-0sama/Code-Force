@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/I - Vanya and Exams/cmake-build-debug/CMakeFiles/I___Vanya_and_Exams.dir
+D:/Section/ps/Code-Force/I - Vanya and Exams/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/I - Vanya and Exams/cmake-build-debug/CMakeFiles/rebuild_cache.dir

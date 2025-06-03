@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/C. Less or Equal/cmake-build-debug/CMakeFiles/C__Less_or_Equal.dir
+D:/Section/ps/Code-Force/C. Less or Equal/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/C. Less or Equal/cmake-build-debug/CMakeFiles/rebuild_cache.dir

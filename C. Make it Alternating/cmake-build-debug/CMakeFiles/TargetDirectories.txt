@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/C. Make it Alternating/cmake-build-debug/CMakeFiles/C__Make_it_Alternating.dir
+D:/Section/ps/Code-Force/C. Make it Alternating/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/C. Make it Alternating/cmake-build-debug/CMakeFiles/rebuild_cache.dir

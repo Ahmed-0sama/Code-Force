@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/F - King's Path/cmake-build-debug/CMakeFiles/F___King_s_Path.dir
+D:/Section/ps/Code-Force/F - King's Path/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/F - King's Path/cmake-build-debug/CMakeFiles/rebuild_cache.dir

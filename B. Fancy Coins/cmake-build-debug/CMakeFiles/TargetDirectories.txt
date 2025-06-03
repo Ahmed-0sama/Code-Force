@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B. Fancy Coins/cmake-build-debug/CMakeFiles/B__Fancy_Coins.dir
+D:/Section/ps/Code-Force/B. Fancy Coins/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B. Fancy Coins/cmake-build-debug/CMakeFiles/rebuild_cache.dir

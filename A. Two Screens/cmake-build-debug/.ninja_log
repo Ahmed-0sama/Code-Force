@@ -1,0 +1,13 @@
+# ninja log v5
+1	1313	7506204140916198	CMakeFiles/A__Two_Screens.dir/main.cpp.obj	4605c2b722deac0b
+1317	1611	7506204143775243	A__Two_Screens.exe	94438bfe34c2d0a7
+3	1035	7506204263058644	CMakeFiles/A__Two_Screens.dir/main.cpp.obj	4605c2b722deac0b
+1036	1283	7506204265418121	A__Two_Screens.exe	94438bfe34c2d0a7
+2	1095	7506204641487513	CMakeFiles/A__Two_Screens.dir/main.cpp.obj	4605c2b722deac0b
+1095	1259	7506204643101401	A__Two_Screens.exe	94438bfe34c2d0a7
+4	927	7506205663010140	CMakeFiles/A__Two_Screens.dir/main.cpp.obj	4605c2b722deac0b
+927	1209	7506205665781852	A__Two_Screens.exe	94438bfe34c2d0a7
+2	1482	7506210984680352	CMakeFiles/A__Two_Screens.dir/main.cpp.obj	4605c2b722deac0b
+1482	1699	7506210986799315	A__Two_Screens.exe	94438bfe34c2d0a7
+2	1217	7506212263067060	CMakeFiles/A__Two_Screens.dir/main.cpp.obj	4605c2b722deac0b
+1218	1460	7506212265326751	A__Two_Screens.exe	94438bfe34c2d0a7

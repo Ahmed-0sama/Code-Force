@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/N - Valid BFS/cmake-build-debug/CMakeFiles/N___Valid_BFS.dir
+D:/Section/ps/Code-Force/N - Valid BFS/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/N - Valid BFS/cmake-build-debug/CMakeFiles/rebuild_cache.dir

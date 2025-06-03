@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/K - Merge Sort Counting Inversions/cmake-build-debug/CMakeFiles/K___Merge_Sort_Counting_Inversions.dir
+D:/Section/ps/Code-Force/K - Merge Sort Counting Inversions/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/K - Merge Sort Counting Inversions/cmake-build-debug/CMakeFiles/rebuild_cache.dir

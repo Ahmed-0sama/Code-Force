@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A - Vacation/cmake-build-debug/CMakeFiles/A___Vacation.dir
+D:/Section/ps/Code-Force/A - Vacation/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A - Vacation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

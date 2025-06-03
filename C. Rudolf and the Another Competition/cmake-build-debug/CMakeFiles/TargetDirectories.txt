@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/C. Rudolf and the Another Competition/cmake-build-debug/CMakeFiles/C__Rudolf_and_the_Another_Competition.dir
+D:/Section/ps/Code-Force/C. Rudolf and the Another Competition/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/C. Rudolf and the Another Competition/cmake-build-debug/CMakeFiles/rebuild_cache.dir

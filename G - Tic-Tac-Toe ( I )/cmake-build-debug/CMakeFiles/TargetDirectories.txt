@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/G - Tic-Tac-Toe ( I )/cmake-build-debug/CMakeFiles/G___Tic_Tac_Toe___I__.dir
+D:/Section/ps/Code-Force/G - Tic-Tac-Toe ( I )/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/G - Tic-Tac-Toe ( I )/cmake-build-debug/CMakeFiles/rebuild_cache.dir

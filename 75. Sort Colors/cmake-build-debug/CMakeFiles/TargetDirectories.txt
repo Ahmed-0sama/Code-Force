@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/75. Sort Colors/cmake-build-debug/CMakeFiles/75__Sort_Colors.dir
+D:/Section/ps/Code-Force/75. Sort Colors/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/75. Sort Colors/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B - Marcus/cmake-build-debug/CMakeFiles/B___Marcus.dir
+D:/Section/ps/Code-Force/B - Marcus/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B - Marcus/cmake-build-debug/CMakeFiles/rebuild_cache.dir

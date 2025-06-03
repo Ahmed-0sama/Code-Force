@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A. Currency System in Geraldion/cmake-build-debug/CMakeFiles/A__Currency_System_in_Geraldion.dir
+D:/Section/ps/Code-Force/A. Currency System in Geraldion/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A. Currency System in Geraldion/cmake-build-debug/CMakeFiles/rebuild_cache.dir

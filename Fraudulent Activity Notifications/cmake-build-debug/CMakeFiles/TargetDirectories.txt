@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/Fraudulent Activity Notifications/cmake-build-debug/CMakeFiles/Fraudulent_Activity_Notifications.dir
+D:/Section/ps/Code-Force/Fraudulent Activity Notifications/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/Fraudulent Activity Notifications/cmake-build-debug/CMakeFiles/rebuild_cache.dir

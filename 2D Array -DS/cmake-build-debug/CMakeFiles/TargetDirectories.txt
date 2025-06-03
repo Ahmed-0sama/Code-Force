@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/2D Array -DS/cmake-build-debug/CMakeFiles/2D_Array__DS.dir
+D:/Section/ps/Code-Force/2D Array -DS/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/2D Array -DS/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/P - Find Permutation/cmake-build-debug/CMakeFiles/P___Find_Permutation.dir
+D:/Section/ps/Code-Force/P - Find Permutation/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/P - Find Permutation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

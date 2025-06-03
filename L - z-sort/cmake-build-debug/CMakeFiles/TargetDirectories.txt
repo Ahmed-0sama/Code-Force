@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/L - z-sort/cmake-build-debug/CMakeFiles/L___z_sort.dir
+D:/Section/ps/Code-Force/L - z-sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/L - z-sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

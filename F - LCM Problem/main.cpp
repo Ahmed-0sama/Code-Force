@@ -20,11 +20,12 @@ signed main(){
     fastread();
     int t;cin>>t;
     while(t--){
-        int a;cin>>a;
-        int lcmval=1;
-        for (int i = 2; i <=a ; ++i) {
-            lcmval= lcm(lcmval,i);
+        int l,r;cin>>l>>r;
+
+        if (2 * l <= r) {
+            cout << l << " " << 2 * l << endl;
+        } else {
+            cout << -1 << " " << -1 << endl;
         }
-        cout<<lcmval<<endl;
     }
 }

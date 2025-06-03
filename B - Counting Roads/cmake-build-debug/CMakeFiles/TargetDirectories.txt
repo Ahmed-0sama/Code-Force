@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B - Counting Roads/cmake-build-debug/CMakeFiles/B___Counting_Roads.dir
+D:/Section/ps/Code-Force/B - Counting Roads/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B - Counting Roads/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/UVA- Divisibility/cmake-build-debug/CMakeFiles/UVA__Divisibility.dir
+D:/Section/ps/Code-Force/UVA- Divisibility/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/UVA- Divisibility/cmake-build-debug/CMakeFiles/rebuild_cache.dir

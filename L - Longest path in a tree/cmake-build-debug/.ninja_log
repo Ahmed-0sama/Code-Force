@@ -1,0 +1,21 @@
+# ninja log v6
+7	3724	7653247202523613	CMakeFiles/L___Longest_path_in_a_tree.dir/main.cpp.obj	338075959af8d0e0
+3729	3960	7653247239741049	L___Longest_path_in_a_tree.exe	3ecfd84742b13e56
+30	3872	7653248303660531	CMakeFiles/L___Longest_path_in_a_tree.dir/main.cpp.obj	338075959af8d0e0
+3872	3993	7653248342080944	L___Longest_path_in_a_tree.exe	3ecfd84742b13e56
+31	4176	7653256505688609	CMakeFiles/L___Longest_path_in_a_tree.dir/main.cpp.obj	338075959af8d0e0
+4177	4341	7653256547150589	L___Longest_path_in_a_tree.exe	3ecfd84742b13e56
+34	4349	7653256861252593	CMakeFiles/L___Longest_path_in_a_tree.dir/main.cpp.obj	338075959af8d0e0
+4350	4483	7653256904422332	L___Longest_path_in_a_tree.exe	3ecfd84742b13e56
+39	3705	7653257195354959	CMakeFiles/L___Longest_path_in_a_tree.dir/main.cpp.obj	338075959af8d0e0
+3706	3838	7653257232022878	L___Longest_path_in_a_tree.exe	3ecfd84742b13e56
+28	4160	7653257509949172	CMakeFiles/L___Longest_path_in_a_tree.dir/main.cpp.obj	338075959af8d0e0
+4160	4329	7653257551274893	L___Longest_path_in_a_tree.exe	3ecfd84742b13e56
+33	4525	7653258232815617	CMakeFiles/L___Longest_path_in_a_tree.dir/main.cpp.obj	338075959af8d0e0
+4525	4684	7653258277736348	L___Longest_path_in_a_tree.exe	3ecfd84742b13e56
+30	4143	7653259284107496	CMakeFiles/L___Longest_path_in_a_tree.dir/main.cpp.obj	338075959af8d0e0
+4144	4286	7653259325230223	L___Longest_path_in_a_tree.exe	3ecfd84742b13e56
+34	5256	7653262889983446	CMakeFiles/L___Longest_path_in_a_tree.dir/main.cpp.obj	338075959af8d0e0
+5257	5387	7653262942216404	L___Longest_path_in_a_tree.exe	3ecfd84742b13e56
+54	5806	7653263865409827	CMakeFiles/L___Longest_path_in_a_tree.dir/main.cpp.obj	338075959af8d0e0
+5807	5930	7653263922876205	L___Longest_path_in_a_tree.exe	3ecfd84742b13e56

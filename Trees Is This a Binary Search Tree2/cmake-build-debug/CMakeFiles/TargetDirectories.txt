@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/Trees Is This a Binary Search Tree2/cmake-build-debug/CMakeFiles/Trees_Is_This_a_Binary_Search_Tree2.dir
+D:/Section/ps/Code-Force/Trees Is This a Binary Search Tree2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/Trees Is This a Binary Search Tree2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

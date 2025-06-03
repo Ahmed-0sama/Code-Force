@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/SPOJ -Philosophers Stone/cmake-build-debug/CMakeFiles/SPOJ__Philosophers_Stone.dir
+D:/Section/ps/Code-Force/SPOJ -Philosophers Stone/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/SPOJ -Philosophers Stone/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/C - Pick up sticks/cmake-build-debug/CMakeFiles/C___Pick_up_sticks.dir
+D:/Section/ps/Code-Force/C - Pick up sticks/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/C - Pick up sticks/cmake-build-debug/CMakeFiles/rebuild_cache.dir

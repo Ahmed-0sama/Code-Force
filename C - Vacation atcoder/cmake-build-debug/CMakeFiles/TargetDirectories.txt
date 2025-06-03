@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/C - Vacation atcoder/cmake-build-debug/CMakeFiles/C___Vacation_atcoder.dir
+D:/Section/ps/Code-Force/C - Vacation atcoder/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/C - Vacation atcoder/cmake-build-debug/CMakeFiles/rebuild_cache.dir

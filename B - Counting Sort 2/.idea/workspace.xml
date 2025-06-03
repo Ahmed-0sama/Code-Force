@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="B___Counting_Sort_2" targetName="B___Counting_Sort_2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="881e81ae-9d44-4734-af10-b6a87286613d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../B. Hopscotch/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B. Hopscotch/.idea/B. Hopscotch.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B. Hopscotch/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B. Hopscotch/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B. Hopscotch/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F - LCM Problem/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../F - LCM Problem/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F - LCM Problem/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../F - LCM Problem/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F - LCM Problem/cmake-build-debug/CMakeFiles/F___LCM_Problem.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../F - LCM Problem/cmake-build-debug/CMakeFiles/F___LCM_Problem.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F - LCM Problem/cmake-build-debug/F___LCM_Problem.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../F - LCM Problem/cmake-build-debug/F___LCM_Problem.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F - LCM Problem/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../F - LCM Problem/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F - LCM Problem/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../F - LCM Problem/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H - Chocolate/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../H - Chocolate/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H - Chocolate/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../H - Chocolate/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H - Chocolate/cmake-build-debug/CMakeFiles/H___Chocolate.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../H - Chocolate/cmake-build-debug/CMakeFiles/H___Chocolate.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H - Chocolate/cmake-build-debug/H___Chocolate.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../H - Chocolate/cmake-build-debug/H___Chocolate.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H - Chocolate/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../H - Chocolate/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H - Chocolate/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../H - Chocolate/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dp/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../dp/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dp/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../dp/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dp/cmake-build-debug/CMakeFiles/dp.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../dp/cmake-build-debug/CMakeFiles/dp.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dp/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../dp/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dp/cmake-build-debug/dp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../dp/cmake-build-debug/dp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dp/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../dp/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="2.3" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2n3U1ZKGuA82vk5uBCXQFQ97eVh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B___Counting_Sort_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="B___Counting_Sort_2" TARGET_NAME="B___Counting_Sort_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="B___Counting_Sort_2" RUN_TARGET_NAME="B___Counting_Sort_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="881e81ae-9d44-4734-af10-b6a87286613d" name="Changes" comment="" />
+      <created>1728201038931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728201038931</updated>
+      <workItem from="1728201040666" duration="1118000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+</project>

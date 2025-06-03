@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/Sorting_Comparator/cmake-build-debug/CMakeFiles/Sorting_Comparator.dir
+D:/Section/ps/Code-Force/Sorting_Comparator/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/Sorting_Comparator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/J - Dividing coins/cmake-build-debug/CMakeFiles/J___Dividing_coins.dir
+D:/Section/ps/Code-Force/J - Dividing coins/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/J - Dividing coins/cmake-build-debug/CMakeFiles/rebuild_cache.dir

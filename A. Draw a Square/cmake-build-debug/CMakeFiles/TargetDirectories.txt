@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/A. Draw a Square/cmake-build-debug/CMakeFiles/A__Draw_a_Square.dir
+D:/Section/ps/Code-Force/A. Draw a Square/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/A. Draw a Square/cmake-build-debug/CMakeFiles/rebuild_cache.dir

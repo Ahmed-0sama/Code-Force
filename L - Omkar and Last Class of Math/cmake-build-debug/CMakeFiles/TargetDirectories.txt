@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/L - Omkar and Last Class of Math/cmake-build-debug/CMakeFiles/L___Omkar_and_Last_Class_of_Math.dir
+D:/Section/ps/Code-Force/L - Omkar and Last Class of Math/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/L - Omkar and Last Class of Math/cmake-build-debug/CMakeFiles/rebuild_cache.dir

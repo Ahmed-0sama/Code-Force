@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/K - Walking on the Safe Side/cmake-build-debug/CMakeFiles/K___Walking_on_the_Safe_Side.dir
+D:/Section/ps/Code-Force/K - Walking on the Safe Side/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/K - Walking on the Safe Side/cmake-build-debug/CMakeFiles/rebuild_cache.dir

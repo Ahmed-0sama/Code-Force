@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B. Skibidus and Ohio/cmake-build-debug/CMakeFiles/B__Skibidus_and_Ohio.dir
+D:/Section/ps/Code-Force/B. Skibidus and Ohio/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B. Skibidus and Ohio/cmake-build-debug/CMakeFiles/rebuild_cache.dir

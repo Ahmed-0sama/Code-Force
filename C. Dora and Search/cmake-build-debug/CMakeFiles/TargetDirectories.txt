@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/C. Dora and Search/cmake-build-debug/CMakeFiles/C__Dora_and_Search.dir
+D:/Section/ps/Code-Force/C. Dora and Search/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/C. Dora and Search/cmake-build-debug/CMakeFiles/rebuild_cache.dir

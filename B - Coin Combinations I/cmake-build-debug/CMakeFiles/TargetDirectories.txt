@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B - Coin Combinations I/cmake-build-debug/CMakeFiles/B___Coin_Combinations_I.dir
+D:/Section/ps/Code-Force/B - Coin Combinations I/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B - Coin Combinations I/cmake-build-debug/CMakeFiles/rebuild_cache.dir

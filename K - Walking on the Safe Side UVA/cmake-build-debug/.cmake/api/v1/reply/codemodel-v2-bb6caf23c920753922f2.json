@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "K___Walking_on_the_Safe_Side_UVA",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "K___Walking_on_the_Safe_Side_UVA::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-K___Walking_on_the_Safe_Side_UVA-Debug-11a4a7f9b418eec77e28.json",
+					"name" : "K___Walking_on_the_Safe_Side_UVA",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Section/ps/Code-Force/K - Walking on the Safe Side UVA/cmake-build-debug",
+		"source" : "D:/Section/ps/Code-Force/K - Walking on the Safe Side UVA"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

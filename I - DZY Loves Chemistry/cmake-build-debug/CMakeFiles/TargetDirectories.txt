@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/I - DZY Loves Chemistry/cmake-build-debug/CMakeFiles/I___DZY_Loves_Chemistry.dir
+D:/Section/ps/Code-Force/I - DZY Loves Chemistry/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/I - DZY Loves Chemistry/cmake-build-debug/CMakeFiles/rebuild_cache.dir

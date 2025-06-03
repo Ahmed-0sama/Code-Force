@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "122__Best_Time_to_Buy_and_Sell_Stock_II",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "122__Best_Time_to_Buy_and_Sell_Stock_II::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-122__Best_Time_to_Buy_and_Sell_Stock_II-Debug-e14100af60a19bd1243d.json",
+					"name" : "122__Best_Time_to_Buy_and_Sell_Stock_II",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Section/ps/Code-Force/122. Best Time to Buy and Sell Stock II/cmake-build-debug",
+		"source" : "D:/Section/ps/Code-Force/122. Best Time to Buy and Sell Stock II"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

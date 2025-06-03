@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/C. Kefa and Park/cmake-build-debug/CMakeFiles/C__Kefa_and_Park.dir
+D:/Section/ps/Code-Force/C. Kefa and Park/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/C. Kefa and Park/cmake-build-debug/CMakeFiles/rebuild_cache.dir

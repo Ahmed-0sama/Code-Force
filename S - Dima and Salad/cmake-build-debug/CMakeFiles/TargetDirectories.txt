@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/S - Dima and Salad/cmake-build-debug/CMakeFiles/S___Dima_and_Salad.dir
+D:/Section/ps/Code-Force/S - Dima and Salad/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/S - Dima and Salad/cmake-build-debug/CMakeFiles/rebuild_cache.dir

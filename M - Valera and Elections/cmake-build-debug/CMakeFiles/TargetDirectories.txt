@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/M - Valera and Elections/cmake-build-debug/CMakeFiles/M___Valera_and_Elections.dir
+D:/Section/ps/Code-Force/M - Valera and Elections/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/M - Valera and Elections/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Trees_Is_This_a_Binary_Search_Tree2",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Trees_Is_This_a_Binary_Search_Tree2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Trees_Is_This_a_Binary_Search_Tree2-Debug-2ddbadab877242456bf3.json",
+					"name" : "Trees_Is_This_a_Binary_Search_Tree2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Section/ps/Code-Force/Trees Is This a Binary Search Tree2/cmake-build-debug",
+		"source" : "D:/Section/ps/Code-Force/Trees Is This a Binary Search Tree2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/I - Boredom codeforces/cmake-build-debug/CMakeFiles/I___Boredom_codeforces.dir
+D:/Section/ps/Code-Force/I - Boredom codeforces/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/I - Boredom codeforces/cmake-build-debug/CMakeFiles/rebuild_cache.dir

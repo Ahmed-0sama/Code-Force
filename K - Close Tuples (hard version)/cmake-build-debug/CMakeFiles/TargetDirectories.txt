@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/K - Close Tuples (hard version)/cmake-build-debug/CMakeFiles/K___Close_Tuples__hard_version_.dir
+D:/Section/ps/Code-Force/K - Close Tuples (hard version)/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/K - Close Tuples (hard version)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

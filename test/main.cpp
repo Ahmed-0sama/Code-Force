@@ -161,18 +161,46 @@ signed main() {
 //    }
 //    s_to_e(start_x,start_y,maze,vis)?cout<<"YES":cout<<"NO";
 
-        cin >> r >> c;
-        vector<vector<char>> maze(r, vector<char>(c));
-        vector<vector<bool>> vis(r, vector<bool>(c, false));
-        for (int i = 0; i < r; ++i) {
-            for (int j = 0; j < c; ++j) {
-                cin >> maze[i][j];
+//        cin >> r >> c;
+//        vector<vector<char>> maze(r, vector<char>(c));
+//        vector<vector<bool>> vis(r, vector<bool>(c, false));
+//        for (int i = 0; i < r; ++i) {
+//            for (int j = 0; j < c; ++j) {
+//                cin >> maze[i][j];
+//            }
+//        }
+//        int start_X, start_Y;
+//        cin >> start_X >> start_Y;
+//        start_X--;
+//        start_Y--;
+//        reachable(start_X, start_Y, maze, vis);
+//        cout << cc;
+        int n;cin>>n;
+        vector<int>v(n);
+
+    for (int i = 0; i <n ; ++i) {
+        cin>>v[i];
+    }
+    vector<int> sortv = v;
+    sort(sortv.begin(), sortv.end());
+
+    if(n%2!=0) {
+        for (int i = 0; i < n; i += 2) {
+            if(v[i]!=sortv[i]){
+                if (i & 1) {
+                    swap(v[i], v[i + 1]);
+                }
             }
         }
-        int start_X, start_Y;
-        cin >> start_X >> start_Y;
-        start_X--;
-        start_Y--;
-        reachable(start_X, start_Y, maze, vis);
-        cout << cc;
+    }else{
+        for (int i = 0; i <n ; ++i) {
+            if(v[i]!=sortv[i]) {
+                if (i % 2 == 0) {
+                    swap(v[i], v[i + 1]);
+                }
+            }
+        }
     }
+    bool sort=is_sorted(v.begin(),v.end());
+    sort?cout<<"YES":cout<<"NO"<<endl;
+}

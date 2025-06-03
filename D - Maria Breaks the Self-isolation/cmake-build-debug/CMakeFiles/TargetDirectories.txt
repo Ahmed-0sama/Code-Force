@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/D - Maria Breaks the Self-isolation/cmake-build-debug/CMakeFiles/D___Maria_Breaks_the_Self_isolation.dir
+D:/Section/ps/Code-Force/D - Maria Breaks the Self-isolation/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/D - Maria Breaks the Self-isolation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

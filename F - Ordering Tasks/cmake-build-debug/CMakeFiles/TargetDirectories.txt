@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/F - Ordering Tasks/cmake-build-debug/CMakeFiles/F___Ordering_Tasks.dir
+D:/Section/ps/Code-Force/F - Ordering Tasks/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/F - Ordering Tasks/cmake-build-debug/CMakeFiles/rebuild_cache.dir

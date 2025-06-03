@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/G - PolandBall and Forest/cmake-build-debug/CMakeFiles/G___PolandBall_and_Forest.dir
+D:/Section/ps/Code-Force/G - PolandBall and Forest/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/G - PolandBall and Forest/cmake-build-debug/CMakeFiles/rebuild_cache.dir

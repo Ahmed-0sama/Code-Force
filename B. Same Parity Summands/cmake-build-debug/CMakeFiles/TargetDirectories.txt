@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B. Same Parity Summands/cmake-build-debug/CMakeFiles/B__Same_Parity_Summands.dir
+D:/Section/ps/Code-Force/B. Same Parity Summands/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B. Same Parity Summands/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/K - Yet Another Coin Problem/cmake-build-debug/CMakeFiles/K___Yet_Another_Coin_Problem.dir
+D:/Section/ps/Code-Force/K - Yet Another Coin Problem/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/K - Yet Another Coin Problem/cmake-build-debug/CMakeFiles/rebuild_cache.dir

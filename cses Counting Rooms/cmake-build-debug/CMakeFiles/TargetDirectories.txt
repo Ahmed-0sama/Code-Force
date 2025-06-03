@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/cses Counting Rooms/cmake-build-debug/CMakeFiles/cses_Counting_Rooms.dir
+D:/Section/ps/Code-Force/cses Counting Rooms/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/cses Counting Rooms/cmake-build-debug/CMakeFiles/rebuild_cache.dir

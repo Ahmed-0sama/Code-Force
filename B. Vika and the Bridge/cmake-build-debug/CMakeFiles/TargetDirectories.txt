@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B. Vika and the Bridge/cmake-build-debug/CMakeFiles/B__Vika_and_the_Bridge.dir
+D:/Section/ps/Code-Force/B. Vika and the Bridge/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B. Vika and the Bridge/cmake-build-debug/CMakeFiles/rebuild_cache.dir

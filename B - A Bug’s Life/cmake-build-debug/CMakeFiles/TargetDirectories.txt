@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/B - A Bug’s Life/cmake-build-debug/CMakeFiles/B___A_Bugs_Life.dir
+D:/Section/ps/Code-Force/B - A Bug’s Life/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/B - A Bug’s Life/cmake-build-debug/CMakeFiles/rebuild_cache.dir

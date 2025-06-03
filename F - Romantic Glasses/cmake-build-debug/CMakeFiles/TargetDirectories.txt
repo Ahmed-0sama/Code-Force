@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/F - Romantic Glasses/cmake-build-debug/CMakeFiles/F___Romantic_Glasses.dir
+D:/Section/ps/Code-Force/F - Romantic Glasses/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/F - Romantic Glasses/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/N - Rank List/cmake-build-debug/CMakeFiles/N___Rank_List.dir
+D:/Section/ps/Code-Force/N - Rank List/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/N - Rank List/cmake-build-debug/CMakeFiles/rebuild_cache.dir

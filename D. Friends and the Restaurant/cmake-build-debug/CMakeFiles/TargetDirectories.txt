@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/D. Friends and the Restaurant/cmake-build-debug/CMakeFiles/D__Friends_and_the_Restaurant.dir
+D:/Section/ps/Code-Force/D. Friends and the Restaurant/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/D. Friends and the Restaurant/cmake-build-debug/CMakeFiles/rebuild_cache.dir

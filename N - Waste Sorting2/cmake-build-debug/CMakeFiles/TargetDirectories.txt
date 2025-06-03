@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/N - Waste Sorting2/cmake-build-debug/CMakeFiles/N___Waste_Sorting2.dir
+D:/Section/ps/Code-Force/N - Waste Sorting2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/N - Waste Sorting2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

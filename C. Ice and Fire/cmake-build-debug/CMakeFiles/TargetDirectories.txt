@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/C. Ice and Fire/cmake-build-debug/CMakeFiles/C__Ice_and_Fire.dir
+D:/Section/ps/Code-Force/C. Ice and Fire/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/C. Ice and Fire/cmake-build-debug/CMakeFiles/rebuild_cache.dir

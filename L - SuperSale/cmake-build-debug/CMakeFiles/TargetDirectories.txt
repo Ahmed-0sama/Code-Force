@@ -1,0 +1,3 @@
+D:/Section/ps/Code-Force/L - SuperSale/cmake-build-debug/CMakeFiles/L___SuperSale.dir
+D:/Section/ps/Code-Force/L - SuperSale/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Section/ps/Code-Force/L - SuperSale/cmake-build-debug/CMakeFiles/rebuild_cache.dir
